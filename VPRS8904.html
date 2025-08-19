@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>VPRS8904</title>
+  
+    <!-- Include the Glycerine Viewer styles -->
+    <link rel="stylesheet" href="https://unpkg.com/glycerine-viewer@latest/jslib/style.css">
+</head>
+<body>
+<!-- Create a container for the Glycerine Viewer -->
+<div id="viewer"></div>
+
+<!-- Include the Glycerine Viewer script -->
+<script src="https://unpkg.com/glycerine-viewer@latest/jslib/glycerine-viewer.umd.cjs"></script>
+
+<script>
+    // Get the container element for the viewer.
+    const ele = document.getElementById('viewer')
+
+    // Create a new GlycerineViewer instance.
+    const viewer = new GlycerineViewer(ele, {
+        width: '1000px',
+        height: '700px',
+        manifest: 'https://notamitchell.github.io/iiif/VPRS8904.json',
+    });
+    
+    // Initialize the viewer.
+    viewer.init();
+</script>
+</body>
+</html>
