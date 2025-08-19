@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>VPRS8904</title>
+    <title>Glycerine Viewer</title>
   
     <!-- Include the Glycerine Viewer styles -->
     <link rel="stylesheet" href="https://unpkg.com/glycerine-viewer@latest/jslib/style.css">
@@ -28,5 +28,149 @@
     // Initialize the viewer.
     viewer.init();
 </script>
+
+<p><input type="text" id="searchInput" placeholder="Search annotations..." oninput="searchAnnotations()"></p>
+<div id="loading" style="display: none;">Loading manifest, please wait...</div>
+<div id="searchResults"></div>
+
+<script>
+
+    const manifestUrl = 'https://notamitchell.github.io/iiif/VPRS8904.json';
+
+    // Get the container element for the viewer.
+    const ele = document.getElementById('viewer')
+
+    // Create a new GlycerineViewer instance.
+    const viewer = new GlycerineViewer(ele, {
+        width: '1000px',
+        height: '700px',
+        manifest: manifestUrl,
+    });
+
+    // Initialize the viewer.
+    viewer.init();
+
+
+    // Annotations search...
+    let annotations = [];
+
+    async function fetchManifest() {
+        const loadingElement = document.getElementById('loading');
+        loadingElement.style.display = 'block'; // Show loading message
+
+        try {
+            const response = await fetch(manifestUrl);
+            const data = await response.json();
+            annotations = extractAnnotations(data);
+        } catch (error) {
+            console.error('Error fetching manifest:', error);
+        } finally {
+            loadingElement.style.display = 'none'; // Hide loading message
+        }
+    }
+
+    function extractAnnotations(data) {
+        const items = data.items || [];
+        let annotations = [];
+        items.forEach(item => {
+            const annotationPages = item.annotations || [];
+            annotationPages.forEach(page => {
+                const pageItems = page.items || [];
+                pageItems.forEach(annotation => {
+                    const bodies = annotation.body || [];
+                    let title = '';
+                    let description = '-'; // Default to dash if no description is found
+                    let externalLink = ''; // Renamed 'link' to 'externalLink' to avoid confusion with the target link
+                    let targetCanvasLink = annotation.target.source || ''; // Capture the target canvas link
+
+                    bodies.forEach(body => {
+                        if (body.type === 'TextualBody') {
+                            if (body.purpose === 'describing' && body.value.startsWith('Title:')) {
+                                title = body.value.replace('Title:', '').trim();
+                            } else if (body.purpose === 'describing' && body.value.startsWith('Description:')) {
+                                description = body.value.replace('Description:', '').trim();
+                            } else if (body.purpose === 'linking' && body.value.startsWith('Link:')) {
+                                const linkMatch = body.value.match(/\[([^\]]+)\]\(([^)]+)\)/);
+                                if (linkMatch) {
+                                    externalLink = `<a href="${linkMatch[2]}" target="_blank">${linkMatch[1]}</a>`;
+                                }
+                            }
+                        }
+                    });
+                    if (title || description || externalLink || targetCanvasLink) {
+                        annotations.push({
+                            id: annotation.id,
+                            title: title,
+                            description: description,
+                            externalLink: externalLink, // Store the external link
+                            targetCanvasLink: targetCanvasLink // Store the target canvas link
+                        });
+                    }
+                });
+            });
+        });
+        return annotations;
+    }
+
+    function searchAnnotations() {
+        const query = document.getElementById('searchInput').value.toLowerCase();
+        const results = annotations.filter(annotation =>
+            annotation.title.toLowerCase().includes(query) ||
+            annotation.description.toLowerCase().includes(query)
+        );
+        displayResults(results, query);
+    }
+
+    function displayResults(results, query) {
+        const resultsContainer = document.getElementById('searchResults');
+        resultsContainer.innerHTML = '';
+
+        results.forEach(result => {
+            const div = document.createElement('div');
+            div.className = 'annotation';
+
+            const highlightedTitle = highlightText(result.title, query);
+            const highlightedDescription = highlightText(result.description, query);
+
+            const titleElement = document.createElement('div');
+            titleElement.className = 'title';
+            titleElement.innerHTML = `<strong>Title:</strong> ${highlightedTitle}`;
+
+            const descriptionElement = document.createElement('div');
+            descriptionElement.className = 'description';
+            descriptionElement.innerHTML = `<strong>Description:</strong> ${highlightedDescription.replace(/\n/g, '<br>')}`;
+
+            div.appendChild(titleElement);
+            div.appendChild(descriptionElement);
+
+            if (result.externalLink) {
+                const linkElement = document.createElement('div');
+                linkElement.className = 'link';
+                linkElement.innerHTML = `<strong>External Link:</strong> ${result.externalLink}`;
+                div.appendChild(linkElement);
+            }
+
+            // Add the target canvas link
+            if (result.targetCanvasLink) {
+                const targetLinkElement = document.createElement('div');
+                targetLinkElement.className = 'target-link';
+                targetLinkElement.innerHTML = `<a href="#" onClick="viewer.activateCanvas('${result.targetCanvasLink}')" >Go to</a>`;
+                div.appendChild(targetLinkElement);
+            }
+
+            resultsContainer.appendChild(div);
+        });
+    }
+
+    function highlightText(text, query) {
+        const regex = new RegExp(`(${query})`, 'gi');
+        return text.replace(regex, '<mark>$1</mark>');
+    }
+
+    // Fetch the manifest data on page load
+    fetchManifest();
+</script>
+
+
 </body>
 </html>
