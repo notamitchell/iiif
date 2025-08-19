@@ -2,12 +2,31 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello, World!</title>
+    <title>Glycerine Viewer</title>
+  
+    <!-- Include the Glycerine Viewer styles -->
+    <link rel="stylesheet" href="https://unpkg.com/glycerine-viewer@latest/jslib/style.css">
 </head>
 <body>
+<!-- Create a container for the Glycerine Viewer -->
+<div id="viewer"></div>
 
-    <h1>Hello, World!</h1>
+<!-- Include the Glycerine Viewer script -->
+<script src="https://unpkg.com/glycerine-viewer@latest/jslib/glycerine-viewer.umd.cjs"></script>
 
+<script>
+    // Get the container element for the viewer.
+    const ele = document.getElementById('viewer')
+
+    // Create a new GlycerineViewer instance.
+    const viewer = new GlycerineViewer(ele, {
+        width: '1000px',
+        height: '700px',
+        manifest: 'https://notamitchell.github.io/iiif/bourke.json',
+    });
+    
+    // Initialize the viewer.
+    viewer.init();
+</script>
 </body>
 </html>
