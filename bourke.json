@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://notamitchell.github.io/iiif/bourke2.json",
+    "id": "https://w3id.org/iaw/data/publications/image-sets/01jyr0bjzz1g2mcmatm1a11spr/manifest",
     "type": "Manifest",
     "label": {
         "none": [
@@ -119,10 +119,10 @@
             ],
             "annotations": [
                 {
-                    "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPGNTQ8CHEW7D5EXQ4V9/page/4644",
+                    "id": "/page/4644",
                     "type": "AnnotationPage",
                     "partOf": {
-                        "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPGNTQ8CHEW7D5EXQ4V9",
+                        "id": "",
                         "type": "AnnotationCollection",
                         "label": {
                             "none": [
@@ -132,7 +132,7 @@
                     },
                     "items": [
                         {
-                            "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPGNTQ8CHEW7D5EXQ4V9/annotations/18679",
+                            "id": "/annotations/18679",
                             "type": "Annotation",
                             "motivation": "commenting",
                             "created": "2025-06-27 02:00:57",
@@ -183,7 +183,7 @@
                             ]
                         },
                         {
-                            "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPGNTQ8CHEW7D5EXQ4V9/annotations/18680",
+                            "id": "/annotations/18680",
                             "type": "Annotation",
                             "motivation": "commenting",
                             "created": "2025-06-27 02:10:06",
@@ -234,7 +234,7 @@
                             ]
                         },
                         {
-                            "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPGNTQ8CHEW7D5EXQ4V9/annotations/18681",
+                            "id": "/annotations/18681",
                             "type": "Annotation",
                             "motivation": "commenting",
                             "created": "2025-06-27 02:12:01",
@@ -285,7 +285,7 @@
                             ]
                         },
                         {
-                            "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPGNTQ8CHEW7D5EXQ4V9/annotations/18682",
+                            "id": "/annotations/18682",
                             "type": "Annotation",
                             "motivation": "commenting",
                             "created": "2025-06-27 02:15:43",
@@ -336,7 +336,7 @@
                             ]
                         },
                         {
-                            "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPGNTQ8CHEW7D5EXQ4V9/annotations/18683",
+                            "id": "/annotations/18683",
                             "type": "Annotation",
                             "motivation": "commenting",
                             "created": "2025-06-27 02:20:58",
@@ -387,7 +387,7 @@
                             ]
                         },
                         {
-                            "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPGNTQ8CHEW7D5EXQ4V9/annotations/18684",
+                            "id": "/annotations/18684",
                             "type": "Annotation",
                             "motivation": "commenting",
                             "created": "2025-06-27 02:22:23",
@@ -438,7 +438,7 @@
                             ]
                         },
                         {
-                            "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPGNTQ8CHEW7D5EXQ4V9/annotations/18685",
+                            "id": "/annotations/18685",
                             "type": "Annotation",
                             "motivation": "commenting",
                             "created": "2025-06-27 02:24:15",
