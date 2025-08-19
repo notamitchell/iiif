@@ -18,11 +18,13 @@
     // Get the container element for the viewer.
     const ele = document.getElementById('viewer')
 
+    const manifestUrl = 'https://notamitchell.github.io/iiif/VPRS8904.json';
+
     // Create a new GlycerineViewer instance.
     const viewer = new GlycerineViewer(ele, {
         width: '1000px',
         height: '700px',
-        manifest: 'https://notamitchell.github.io/iiif/VPRS8904.json',
+        manifest: manifestUrl,
     });
     
     // Initialize the viewer.
@@ -34,21 +36,6 @@
 <div id="searchResults"></div>
 
 <script>
-
-    const manifestUrl = 'https://notamitchell.github.io/iiif/VPRS8904.json';
-
-    // Get the container element for the viewer.
-    const ele = document.getElementById('viewer')
-
-    // Create a new GlycerineViewer instance.
-    const viewer = new GlycerineViewer(ele, {
-        width: '1000px',
-        height: '700px',
-        manifest: manifestUrl,
-    });
-
-    // Initialize the viewer.
-    viewer.init();
 
 
     // Annotations search...
