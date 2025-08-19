@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPGNTQ8CHEW7D5EXQ4V9",
+    "id": "https://notamitchell.github.io/iiif/bourke1.json",
     "type": "AnnotationCollection",
     "label": {
         "none": [
