@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://rosetta.slv.vic.gov.au/iiif/2/IE1295697:FL20974207.jpg/info.json",
+    "id": "https://notamitchell.github.io/iiif/image_0.json",
     "type": "Manifest",
     "label": {
         "none": [
