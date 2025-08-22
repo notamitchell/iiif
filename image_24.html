@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <title>Glycerine Viewer</title>
+    
+      <!-- Include the Glycerine Viewer styles -->
+      <link rel="stylesheet" href="https://unpkg.com/glycerine-viewer@latest/jslib/style.css">
+  </head>
+  <body>
+
+
+    <div id="viewer"></div>
+
+    <script src="https://unpkg.com/glycerine-viewer@latest/jslib/glycerine-viewer.umd.cjs"></script>
+    <script>
+        // Get the container element for the viewer.
+        const ele = document.getElementById('viewer')
+
+        // Create a new GlycerineViewer instance.
+        const viewer = new GlycerineViewer(ele, {
+            width: '900px',
+            height: '700px',
+            manifest: 'https://notamitchell.github.io/iiif/image_24.json',
+        });
+        
+        // Initialize the viewer.
+        viewer.init();
+    </script>
+  </body>
+</html>
