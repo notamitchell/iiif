@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "iaw/data/publications/image-sets/01jyne3tnbd3p0hd7fgg4jdpvw/manifest",
+    "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/624",
     "type": "Manifest",
     "label": {
         "none": [
