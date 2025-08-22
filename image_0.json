@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "iaw/data/publications/image-sets/01jyr0bjzz1g2mcmatm1a11spr/manifest",
+    "id": "https://rosetta.slv.vic.gov.au/iiif/2/IE1295697:FL20974207.jpg/info.json",
     "type": "Manifest",
     "label": {
         "none": [
