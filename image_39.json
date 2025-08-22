@@ -59,14 +59,14 @@
     ],
     "thumbnail": [
         {
-            "id": "iaw/images/iiif/01JY3AVJQSPJZKKEXS3J0QMC1A/full/300,/0/default.jpg",
+            "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/628/full/300,/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "width": 300,
             "height": 206,
             "service": [
                 {
-                    "id": "iaw/images/iiif/01JY3AVJQSPJZKKEXS3J0QMC1A",
+                    "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/628",
                     "type": "ImageService3",
                     "profile": "level2"
                 }
@@ -99,14 +99,14 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "iaw/images/iiif/01JY3AVJQSPJZKKEXS3J0QMC1A/full/max/0/default.jpg",
+                                "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/628/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "width": 1024,
                                 "height": 702,
                                 "service": [
                                     {
-                                        "id": "iaw/images/iiif/01JY3AVJQSPJZKKEXS3J0QMC1A",
+                                        "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/628",
                                         "type": "ImageService3",
                                         "profile": "level2"
                                     }
