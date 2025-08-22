@@ -1,0 +1,1113 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "25/1348 Settlement of claim re fire insurance on the Town hall"
+        ]
+    },
+    "summary": {
+        "none": [
+            "Sender : F F Leslie"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Patrick Gigacz"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Created"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-19T04:23:12.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Modified"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-19T04:23:12.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Published"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-19T05:11:48.000000Z"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F1%2Ffiles%2F03183-P0002-000084-25_1348-0001.jp2/full/300,/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 300,
+            "height": 490,
+            "service": [
+                {
+                    "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F1%2Ffiles%2F03183-P0002-000084-25_1348-0001.jp2",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4594",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/1348 (1)"
+                ]
+            },
+            "width": 2408,
+            "height": 3932,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4594/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4594/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F1%2Ffiles%2F03183-P0002-000084-25_1348-0001.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2408,
+                                "height": 3932,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F1%2Ffiles%2F03183-P0002-000084-25_1348-0001.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4594"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG/page/4594",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Town Hall fire"
+                            ]
+                        }
+                    },
+                    "next": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG/page/4599",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG/annotations/18095",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-19 04:39:09",
+                            "modified": "2025-06-19 04:39:09",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4594",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=741.96826171875,2393.295654296875,1556.13623046875,446.573486328125"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Amount received for oil paintings"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: The last part of the insurance claim - for the paintings of Lord Mayors and Town Clerks destroyed in the fire - was not settled until the end of 1926."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4595",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/1348 (2)"
+                ]
+            },
+            "width": 2368,
+            "height": 2968,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4595/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4595/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F2%2Ffiles%2F03183-P0002-000084-25_1348-0002.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2368,
+                                "height": 2968,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F2%2Ffiles%2F03183-P0002-000084-25_1348-0002.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4595"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4598",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/1348 (5)"
+                ]
+            },
+            "width": 2435,
+            "height": 3922,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4598/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4598/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F5%2Ffiles%2F03183-P0002-000084-25_1348-0005.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2435,
+                                "height": 3922,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F5%2Ffiles%2F03183-P0002-000084-25_1348-0005.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4598"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4599",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/1348 (6)"
+                ]
+            },
+            "width": 2317,
+            "height": 3054,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4599/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4599/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F6%2Ffiles%2F03183-P0002-000084-25_1348-0006.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2317,
+                                "height": 3054,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F6%2Ffiles%2F03183-P0002-000084-25_1348-0006.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4599"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG/page/4599",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Town Hall fire"
+                            ]
+                        }
+                    },
+                    "prev": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG/page/4594",
+                        "type": "AnnotationPage"
+                    },
+                    "next": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG/page/4608",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG/annotations/18096",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-19 04:42:12",
+                            "modified": "2025-06-19 04:42:12",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4599",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=240.08685302734375,304.29351806640625,929.4783325195312,542.1956787109375"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Unofficial"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Leslie, the insurance adjuster, was keen to finalise the settlement, and wrote to Town Clerk McCall in a personal capacity to plead with him (unsuccessfully) to bypass the slow machinery of the Council bureacracy."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4603",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/1348 (10)"
+                ]
+            },
+            "width": 2447,
+            "height": 3928,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4603/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4603/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F10%2Ffiles%2F03183-P0002-000084-25_1348-0010.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2447,
+                                "height": 3928,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F10%2Ffiles%2F03183-P0002-000084-25_1348-0010.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4603"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4605",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/1348 (12)"
+                ]
+            },
+            "width": 2300,
+            "height": 3048,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4605/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4605/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F12%2Ffiles%2F03183-P0002-000084-25_1348-0012.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2300,
+                                "height": 3048,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F12%2Ffiles%2F03183-P0002-000084-25_1348-0012.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4605"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4606",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/1348 (13)"
+                ]
+            },
+            "width": 2407,
+            "height": 3930,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4606/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4606/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F13%2Ffiles%2F03183-P0002-000084-25_1348-0013.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2407,
+                                "height": 3930,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F13%2Ffiles%2F03183-P0002-000084-25_1348-0013.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4606"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4607",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/1348 (14)"
+                ]
+            },
+            "width": 2384,
+            "height": 3064,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4607/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4607/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F14%2Ffiles%2F03183-P0002-000084-25_1348-0014.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2384,
+                                "height": 3064,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F14%2Ffiles%2F03183-P0002-000084-25_1348-0014.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4607"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4608",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/1348 (15)"
+                ]
+            },
+            "width": 2399,
+            "height": 3901,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4608/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4608/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F15%2Ffiles%2F03183-P0002-000084-25_1348-0015.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2399,
+                                "height": 3901,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F15%2Ffiles%2F03183-P0002-000084-25_1348-0015.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4608"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG/page/4608",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Town Hall fire"
+                            ]
+                        }
+                    },
+                    "prev": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG/page/4599",
+                        "type": "AnnotationPage"
+                    },
+                    "next": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG/page/4609",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG/annotations/18097",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-19 04:58:09",
+                            "modified": "2025-06-19 04:58:09",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4608",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=451.5728759765625,3003.60107421875,871.6002197265625,318.016357421875"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: MORTON"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: It seems that haggling over estimates for the Town Hall reconstruction in long, dull meetings gave City Engineer Henry Morton time to doodle on his notes."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG/annotations/18098",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-19 05:07:50",
+                            "modified": "2025-06-19 05:07:50",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4608",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=231.76898193359375,2162.982421875,1512.2848510742188,167.302490234375"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Lady Mayoress' and Councillors Wives' Rooms"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Wives of the Lord Mayor and councillors were provided with rooms in the Town Hall to receive and entertain guests - predominantly in connection with charitable fundraising activities."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "linking",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Link: [Lady Mayoress' Reception at Trove](https://trove.nla.gov.au/newspaper/article/203656925)"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG/annotations/18099",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-19 05:09:10",
+                            "modified": "2025-06-19 05:09:10",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4608",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=190.0867919921875,878.3489990234375,862.775390625,313.736572265625"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Dancing floor, bio box and organ"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Reconstruction of the Town Hall provided an interesting insight into its main uses - the large space could be booked for dances, film screenings and musical concerts."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG/annotations/18101",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-19 05:11:24",
+                            "modified": "2025-06-19 05:11:24",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4608",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=170.85458374023438,65.95895385742188,1983.5160217285156,604.5150451660156"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Damage estimates"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Settling the Town Hall insurance claim required lengthy negotiations over the amounts for damage. This copy - issued to and annotated by City Engineer Henry Morton - is one of nearly a dozen drafts in the correspondence file."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4609",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/1348 (16)"
+                ]
+            },
+            "width": 2401,
+            "height": 3908,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4609/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4609/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F16%2Ffiles%2F03183-P0002-000084-25_1348-0016.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2401,
+                                "height": 3908,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F16%2Ffiles%2F03183-P0002-000084-25_1348-0016.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4609"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG/page/4609",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Town Hall fire"
+                            ]
+                        }
+                    },
+                    "prev": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG/page/4608",
+                        "type": "AnnotationPage"
+                    },
+                    "next": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG/page/4626",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG/annotations/18100",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-19 05:10:10",
+                            "modified": "2025-06-19 05:10:10",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4609",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=163.12582397460938,2897.480712890625,2187.8270568847656,368.73486328125"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Coffee Palace damage"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: As a result of the fire and the water used by the fire brigade, the next door Coffee Palace suffered minor damage, paid for by the Council's insurers."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4626",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/1348 (33)"
+                ]
+            },
+            "width": 2317,
+            "height": 3050,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4626/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4626/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F33%2Ffiles%2F03183-P0002-000084-25_1348-0033.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2317,
+                                "height": 3050,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F33%2Ffiles%2F03183-P0002-000084-25_1348-0033.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4626"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG/page/4626",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Town Hall fire"
+                            ]
+                        }
+                    },
+                    "prev": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG/page/4609",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPE7VC9FZFGJ5EE66HFG/annotations/18094",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-19 04:30:39",
+                            "modified": "2025-06-19 04:30:39",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4626",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=76.48455047607422,127.64635467529297,710.5661697387695,441.63660430908203"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: F. F. Leslie"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: After a career in management of some of Australia's largest insurance companies, F. F. Leslie went into business as an insurance adjuster - liaising between insurers and their clients on the value of losses - in the mid-1910s, and by the 1920s was one of the most well-reputed adjusters in Melbourne business circles."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4627",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/1348 (34)"
+                ]
+            },
+            "width": 2483,
+            "height": 3981,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4627/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4627/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F34%2Ffiles%2F03183-P0002-000084-25_1348-0034.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2483,
+                                "height": 3981,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F34%2Ffiles%2F03183-P0002-000084-25_1348-0034.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4627"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4628",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/1348 (35)"
+                ]
+            },
+            "width": 2413,
+            "height": 3930,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4628/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4628/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F35%2Ffiles%2F03183-P0002-000084-25_1348-0035.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2413,
+                                "height": 3930,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F35%2Ffiles%2F03183-P0002-000084-25_1348-0035.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4628"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4629",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/1348 (36)"
+                ]
+            },
+            "width": 2480,
+            "height": 3976,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4629/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4629/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F36%2Ffiles%2F03183-P0002-000084-25_1348-0036.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2480,
+                                "height": 3976,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/3168%2F3911%2F82%2Fimages%2F36%2Ffiles%2F03183-P0002-000084-25_1348-0036.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest/canvases/4629"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,378 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "iaw/data/publications/image-sets/01jxktvfyg8ygz0wgr8jhaav96/manifest",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "25/5323 Salary of A Harvey Junior Clerk, Town Clerks Office who will attain 21 years of age on 31/10/25"
+        ]
+    },
+    "summary": {
+        "none": [
+            "Sender : Industrial Officer"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Patrick Gigacz"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Created"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-13T04:58:31.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Modified"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-13T04:58:31.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Published"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-13T05:05:29.000000Z"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://images.prov.vic.gov.au/loris/4168%2F3935%2F45%2Fimages%2F1%2Ffiles%2F03183-P0002-000090-25_5323-0001.jp2/full/300,/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 300,
+            "height": 487,
+            "service": [
+                {
+                    "id": "https://images.prov.vic.gov.au/loris/4168%2F3935%2F45%2Fimages%2F1%2Ffiles%2F03183-P0002-000090-25_5323-0001.jp2",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "iaw/data/publications/image-sets/01jxktvfyg8ygz0wgr8jhaav96/manifest/canvases/4582",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/5323 (1)"
+                ]
+            },
+            "width": 2416,
+            "height": 3920,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jxktvfyg8ygz0wgr8jhaav96/manifest/canvases/4582/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jxktvfyg8ygz0wgr8jhaav96/manifest/canvases/4582/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/4168%2F3935%2F45%2Fimages%2F1%2Ffiles%2F03183-P0002-000090-25_5323-0001.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2416,
+                                "height": 3920,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/4168%2F3935%2F45%2Fimages%2F1%2Ffiles%2F03183-P0002-000090-25_5323-0001.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jxktvfyg8ygz0wgr8jhaav96/manifest/canvases/4582"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPD7AC50NHZ5H88BWG06/page/4582",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPD7AC50NHZ5H88BWG06",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Inside the Town Clerk's office"
+                            ]
+                        }
+                    },
+                    "next": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPD7AC50NHZ5H88BWG06/page/4583",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPD7AC50NHZ5H88BWG06/annotations/17948",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-13 04:59:25",
+                            "modified": "2025-06-13 04:59:25",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxktvfyg8ygz0wgr8jhaav96/manifest/canvases/4582",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=155.363525390625,428.67559814453125,1014.5322265625,242.9161376953125"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Industrial Officer"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Some correspondence came from inside the Council, and related to internal matters like the pay rate of staff."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jxktvfyg8ygz0wgr8jhaav96/manifest/canvases/4583",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/5323 (2)"
+                ]
+            },
+            "width": 2396,
+            "height": 3934,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jxktvfyg8ygz0wgr8jhaav96/manifest/canvases/4583/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jxktvfyg8ygz0wgr8jhaav96/manifest/canvases/4583/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/4168%2F3935%2F45%2Fimages%2F2%2Ffiles%2F03183-P0002-000090-25_5323-0002.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2396,
+                                "height": 3934,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/4168%2F3935%2F45%2Fimages%2F2%2Ffiles%2F03183-P0002-000090-25_5323-0002.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jxktvfyg8ygz0wgr8jhaav96/manifest/canvases/4583"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPD7AC50NHZ5H88BWG06/page/4583",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPD7AC50NHZ5H88BWG06",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Inside the Town Clerk's office"
+                            ]
+                        }
+                    },
+                    "prev": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPD7AC50NHZ5H88BWG06/page/4582",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPD7AC50NHZ5H88BWG06/annotations/17949",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-13 05:05:21",
+                            "modified": "2025-06-13 05:05:21",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxktvfyg8ygz0wgr8jhaav96/manifest/canvases/4583",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=414.0680847167969,1204.5784912109375,1773.4072570800781,315.48486328125"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Junior clerks"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Many of the senior staff of the City Council in 1925 had joined the \"service\" as a junior clerk at the age of 18 or younger."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "linking",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Link: [](https://trove.nla.gov.au/newspaper/article/1998738)"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jxktvfyg8ygz0wgr8jhaav96/manifest/canvases/4584",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/5323 (3)"
+                ]
+            },
+            "width": 2396,
+            "height": 3886,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jxktvfyg8ygz0wgr8jhaav96/manifest/canvases/4584/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jxktvfyg8ygz0wgr8jhaav96/manifest/canvases/4584/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/4168%2F3935%2F45%2Fimages%2F3%2Ffiles%2F03183-P0002-000090-25_5323-0003.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2396,
+                                "height": 3886,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/4168%2F3935%2F45%2Fimages%2F3%2Ffiles%2F03183-P0002-000090-25_5323-0003.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jxktvfyg8ygz0wgr8jhaav96/manifest/canvases/4584"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jxktvfyg8ygz0wgr8jhaav96/manifest/canvases/4585",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/5323 (4)"
+                ]
+            },
+            "width": 2400,
+            "height": 3890,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jxktvfyg8ygz0wgr8jhaav96/manifest/canvases/4585/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jxktvfyg8ygz0wgr8jhaav96/manifest/canvases/4585/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/4168%2F3935%2F45%2Fimages%2F4%2Ffiles%2F03183-P0002-000090-25_5323-0004.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2400,
+                                "height": 3890,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/4168%2F3935%2F45%2Fimages%2F4%2Ffiles%2F03183-P0002-000090-25_5323-0004.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jxktvfyg8ygz0wgr8jhaav96/manifest/canvases/4585"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

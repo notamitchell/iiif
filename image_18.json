@@ -1,0 +1,715 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Alteration to position of light Fleming Place to light Equitable Place"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Patrick Gigacz"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Created"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-05T02:41:37.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Modified"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-05T02:41:37.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Published"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-05T02:59:21.000000Z"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "iaw/images/iiif/01JWYZ49F7JSC4PNK7Y1QKCX6E/full/300,/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 300,
+            "height": 200,
+            "service": [
+                {
+                    "id": "iaw/images/iiif/01JWYZ49F7JSC4PNK7Y1QKCX6E",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4561",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Index"
+                ]
+            },
+            "width": 4526,
+            "height": 3008,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4561/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4561/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "iaw/images/iiif/01JWYZ49F7JSC4PNK7Y1QKCX6E/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 4526,
+                                "height": 3008,
+                                "service": [
+                                    {
+                                        "id": "iaw/images/iiif/01JWYZ49F7JSC4PNK7Y1QKCX6E",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4561"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/page/4561",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Lamps and Lighting"
+                            ]
+                        }
+                    },
+                    "next": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/page/4562",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17917",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 02:43:37",
+                            "modified": "2025-06-05 02:43:37",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4561",
+                                "selector": {
+                                    "type": "SvgSelector",
+                                    "value": "<svg><polygon points=\"2444.034912109375,1899.719482421875 4080.651123046875,1835.481201171875 4073.351318359375,1731.823974609375 2441.114990234375,1798.982177734375\"></polygon></svg>"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Index entry"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: The first letter to be filed under Lamps and Lighting for 1925 was \"Alteration to position of light Fleming Place to light Equitable Place\". It's marked on the first map in this story."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "linking",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Link: [Fleming Place at eMelbourne](https://www.emelbourne.net.au/biogs/EM01798b.htm)"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "linking",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Link: [Equitable Place at eMelbourne](https://www.emelbourne.net.au/biogs/EM01792b.htm)"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4562",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Register page index"
+                ]
+            },
+            "width": 3686,
+            "height": 3053,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4562/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4562/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "iaw/images/iiif/01JWYZ826H8THDHPTVW9QBR5BD/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 3686,
+                                "height": 3053,
+                                "service": [
+                                    {
+                                        "id": "iaw/images/iiif/01JWYZ826H8THDHPTVW9QBR5BD",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4562"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/page/4562",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Lamps and Lighting"
+                            ]
+                        }
+                    },
+                    "prev": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/page/4561",
+                        "type": "AnnotationPage"
+                    },
+                    "next": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/page/4564",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17918",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 02:44:44",
+                            "modified": "2025-06-05 02:45:36",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4562",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=246.9210662841797,1114.9907531738281,266.72438049316406,85.351806640625"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Register page index entry"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: After the letter was received and entered in the Register on page 444, it was noted in the numeric index..."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Register"
+                ]
+            },
+            "width": 4582,
+            "height": 1993,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "iaw/images/iiif/01JWYZQFM1R8072J0FHB3F1ZW3/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 4582,
+                                "height": 1993,
+                                "service": [
+                                    {
+                                        "id": "iaw/images/iiif/01JWYZQFM1R8072J0FHB3F1ZW3",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/page/4564",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Lamps and Lighting"
+                            ]
+                        }
+                    },
+                    "prev": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/page/4562",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17919",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 02:47:21",
+                            "modified": "2025-06-05 02:47:21",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=318.9838562011719,523.5097045898438,279.9814147949219,104.47064208984375"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Dates of letter"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: We can see the letter was dated 15 January and received on 16 January."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17920",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 02:48:15",
+                            "modified": "2025-06-05 02:48:15",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=582.25,526.2955932617188,183.868408203125,103.07769775390625"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Subsequent and previous - or not"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: The clerks didn't identify any related correspondence."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17921",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 02:56:58",
+                            "modified": "2025-06-05 02:56:58",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=766.118408203125,527.6885375976562,569.7135009765625,104.47064208984375"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Name of sender"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: James McEwan and Co was a major hardware and appliance retailer. Their flagship Melbourne store on Elizabeth Street was significantly expanded in 1924. In the first fortnight of 1925 their store became a gathering point for city workers and visitors to listen to the Second Test of the Ashes cricket tournament between Australia and England, underway at the Melbourne Cricket Ground. Increased delivery traffic or the public spilling off Elizabeth Street might have prompted their concern about public lighting."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "linking",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Link: [Cricket listeners at Trove](https://trove.nla.gov.au/newspaper/article/274508067)"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "linking",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Link: [Renovations at Trove](https://trove.nla.gov.au/newspaper/article/1935952)"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "linking",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Link: [McEwan's at ANU Archives ](https://archivescollection.anu.edu.au/index.php/6auoe)"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17922",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 02:57:43",
+                            "modified": "2025-06-05 02:57:43",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=1339.1512451171875,504.41241455078125,578.8218994140625,127.19793701171875"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Subject of letter"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Requesting that position of electric light at end of Fleming Place be altered to throw light along passageway."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17923",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 02:58:05",
+                            "modified": "2025-06-05 02:58:05",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=1911.265380859375,499.3345031738281,248.181884765625,64.54544067382812"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Referrals"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17924",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 02:58:21",
+                            "modified": "2025-06-05 02:58:21",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
+                                "selector": {
+                                    "type": "SvgSelector",
+                                    "value": "<svg><circle cx=\"1955.3562622070312\" cy=\"536.1526794433594\" r=\"37.15613853640246\"></circle></svg>"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: City Electrical Engineer 16/1"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17925",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 02:58:31",
+                            "modified": "2025-06-05 02:58:31",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
+                                "selector": {
+                                    "type": "SvgSelector",
+                                    "value": "<svg><circle cx=\"2038.0835571289062\" cy=\"533.8799438476562\" r=\"36.10417068264833\"></circle></svg>"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Town Clerk 23/1"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17926",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 02:59:05",
+                            "modified": "2025-06-05 02:59:05",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
+                                "selector": {
+                                    "type": "SvgSelector",
+                                    "value": "<svg><circle cx=\"2115.3563232421875\" cy=\"537.5163116455078\" r=\"41.58282413345177\"></circle></svg>"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: RB [?] 24/1"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

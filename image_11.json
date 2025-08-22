@@ -1,0 +1,915 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "25/3156 Proposed Lighting of Princes Bridge blue prints of proposed cast iron standards to be erected on parapets of Bridge"
+        ]
+    },
+    "summary": {
+        "none": [
+            "Sender : City Engineer"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Patrick Gigacz"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Created"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-05T02:14:32.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Modified"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-05T02:14:32.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Published"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-05T02:32:05.000000Z"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://images.prov.vic.gov.au/loris/6168%2F3924%2F94%2Fimages%2F6%2Ffiles%2F03183-P0002-000087-25_3156-0006.jp2/full/300,/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 300,
+            "height": 488,
+            "service": [
+                {
+                    "id": "https://images.prov.vic.gov.au/loris/6168%2F3924%2F94%2Fimages%2F6%2Ffiles%2F03183-P0002-000087-25_3156-0006.jp2",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4560",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/3156 (6)"
+                ]
+            },
+            "width": 2467,
+            "height": 4009,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4560/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4560/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/6168%2F3924%2F94%2Fimages%2F6%2Ffiles%2F03183-P0002-000087-25_3156-0006.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2467,
+                                "height": 4009,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/6168%2F3924%2F94%2Fimages%2F6%2Ffiles%2F03183-P0002-000087-25_3156-0006.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4560"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/page/4560",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Lamps and Lighting"
+                            ]
+                        }
+                    },
+                    "next": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/page/4559",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/annotations/17906",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 02:18:39",
+                            "modified": "2025-06-05 02:18:39",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4560",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=1320.9215087890625,2084.815185546875,907.8350830078125,262.263427734375"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: W.H. Alabaster signature"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Walter Henry Alabaster was appointed City Electrical Engineer in 1919, after his predecessor Herbert Reah Harper departed in controversial circumstances to become the inaugural Chief Engineer of the State Electricity Commission."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/annotations/17907",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 02:20:30",
+                            "modified": "2025-06-05 02:20:30",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4560",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=554.3050537109375,1409.94287109375,406.84466552734375,70.609375"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: St Kilda Road"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: As the main thoroughfare for vehicle traffic entering the city from the southern suburbs, as well as a grand boulevard planted with large ornamental trees, St Kilda Road was a major challenge for the City Council to balance the needs of motor traffic, trams and pedestrians with Melbourne's image as a grand outpost of the British Empire."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/annotations/17908",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 02:22:45",
+                            "modified": "2025-06-05 02:22:45",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4560",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=1704.2296142578125,1228.3758544921875,487.5411376953125,100.87060546875"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Princes Bridge"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: By 1925, the bridge crossing the Yarra River from the south into the city centre was already a major Melbourne landmark, and for the Council was a matter of civic pride as well as practical traffic management."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "linking",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Link: [Princes Bridge at eMelbourne](https://www.emelbourne.net.au/biogs/EM01189b.htm)"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4559",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/3156 (5)"
+                ]
+            },
+            "width": 2394,
+            "height": 3945,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4559/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4559/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/6168%2F3924%2F94%2Fimages%2F5%2Ffiles%2F03183-P0002-000087-25_3156-0005.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2394,
+                                "height": 3945,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/6168%2F3924%2F94%2Fimages%2F5%2Ffiles%2F03183-P0002-000087-25_3156-0005.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4559"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/page/4559",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Lamps and Lighting"
+                            ]
+                        }
+                    },
+                    "prev": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/page/4560",
+                        "type": "AnnotationPage"
+                    },
+                    "next": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/page/4558",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/annotations/17909",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 02:23:01",
+                            "modified": "2025-06-05 02:23:01",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4559",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=25.728588104248047,2216.9951171875,665.0437507629395,291.163330078125"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Chief Electrical Engineer referral"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/annotations/17910",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 02:23:09",
+                            "modified": "2025-06-05 02:23:09",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4559",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=29.037263870239258,1790.1759033203125,598.8702068328857,304.3980712890625"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Council referral"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/annotations/17911",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 02:23:21",
+                            "modified": "2025-06-05 02:23:21",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4559",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=88.59342193603516,1039.1065673828125,559.1660995483398,304.398193359375"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Electric Supply Committee referral"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4558",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/3156 (4)"
+                ]
+            },
+            "width": 2446,
+            "height": 3935,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4558/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4558/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/6168%2F3924%2F94%2Fimages%2F4%2Ffiles%2F03183-P0002-000087-25_3156-0004.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2446,
+                                "height": 3935,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/6168%2F3924%2F94%2Fimages%2F4%2Ffiles%2F03183-P0002-000087-25_3156-0004.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4558"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/page/4558",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Lamps and Lighting"
+                            ]
+                        }
+                    },
+                    "prev": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/page/4559",
+                        "type": "AnnotationPage"
+                    },
+                    "next": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/page/4557",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/annotations/17912",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 02:26:14",
+                            "modified": "2025-06-05 02:26:14",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4558",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=216.4119873046875,1185.067626953125,2026.3770751953125,330.02880859375"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Objection by City Engineer"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Installing electrical equipment and improved lighting in the city, carried out by the City Electrical Engineer's department, frequently demanded modification of bridges, roads and buildings that were the responsibility of the City Engineer. The Town Clerk's office was often at the centre of disputes between the engineers that would need to be resolved by a decision of Council."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4557",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/3156 (3)"
+                ]
+            },
+            "width": 2451,
+            "height": 3121,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4557/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4557/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/6168%2F3924%2F94%2Fimages%2F3%2Ffiles%2F03183-P0002-000087-25_3156-0003.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2451,
+                                "height": 3121,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/6168%2F3924%2F94%2Fimages%2F3%2Ffiles%2F03183-P0002-000087-25_3156-0003.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4557"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/page/4557",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Lamps and Lighting"
+                            ]
+                        }
+                    },
+                    "prev": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/page/4558",
+                        "type": "AnnotationPage"
+                    },
+                    "next": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/page/4556",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/annotations/17913",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 02:28:38",
+                            "modified": "2025-06-05 02:28:38",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4557",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=481.0582580566406,1008.2940673828125,1897.2261657714844,593.66845703125"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Objection to appearance of lighting poles"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Because most of the Council's electricity distribution system ran underground, the arrival of electric trams in the early 1920s caused consternation on the Council and elsewhere about the aesthetic impact of the tram wires. Here, Alabaster uses the existence of the tramway poles as an excuse to install his preferred light fittings!"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4556",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/3156 (2)"
+                ]
+            },
+            "width": 2408,
+            "height": 3953,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4556/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4556/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/6168%2F3924%2F94%2Fimages%2F2%2Ffiles%2F03183-P0002-000087-25_3156-0002.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2408,
+                                "height": 3953,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/6168%2F3924%2F94%2Fimages%2F2%2Ffiles%2F03183-P0002-000087-25_3156-0002.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4556"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/page/4556",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Lamps and Lighting"
+                            ]
+                        }
+                    },
+                    "prev": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/page/4557",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/annotations/17914",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 02:29:37",
+                            "modified": "2025-06-05 02:29:37",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4556",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=676.853759765625,1067.930419921875,1680.900146484375,437.630859375"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Discussion between committee chairs"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: With a dispute between the Council officers, the chairs of the Public Works and Electric Supply committees conferred on a mutually acceptable solution."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/annotations/17915",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 02:30:42",
+                            "modified": "2025-06-05 02:30:42",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4556",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=683.4845581054688,1782.453857421875,1700.7925415039062,1011.1923828125"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: City Engineer given chance to make his case"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: After the chairs were unable to agree, the Electric Supply Committee invited Morton to make his case for the alternative lighting scheme."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBGD7CXHHY29FTAKRTJ/annotations/17916",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 02:31:50",
+                            "modified": "2025-06-05 02:31:50",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4556",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=646.8310546875,3025.152587890625,1742.879638671875,607.820556640625"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: City Engineer's request denied"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Morton was unable to persuade the Electric Supply Committee to change their decision on the type of lighting poles to be used on Princes Bridge. The granite would have to be carved out."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4555",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/3156 (1)"
+                ]
+            },
+            "width": 2473,
+            "height": 4006,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4555/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4555/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/6168%2F3924%2F94%2Fimages%2F1%2Ffiles%2F03183-P0002-000087-25_3156-0001.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2473,
+                                "height": 4006,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/6168%2F3924%2F94%2Fimages%2F1%2Ffiles%2F03183-P0002-000087-25_3156-0001.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jwyywvxmy51np8mb38pbvkrm/manifest/canvases/4555"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

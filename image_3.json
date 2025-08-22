@@ -1,0 +1,371 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "iaw/data/publications/image-sets/01jxkgscyew7qenywxkfn4ca2h/manifest",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Horse troughs"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Patrick Gigacz"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Created"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-13T02:04:41.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Modified"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-13T02:04:41.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Published"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-13T02:09:35.000000Z"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "iaw/images/iiif/01JXKG9G8N16EXR2VB9NVSGVGW/full/300,/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 300,
+            "height": 220,
+            "service": [
+                {
+                    "id": "iaw/images/iiif/01JXKG9G8N16EXR2VB9NVSGVGW",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "iaw/data/publications/image-sets/01jxkgscyew7qenywxkfn4ca2h/manifest/canvases/4575",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Main Street, Daylesford, 1862"
+                ]
+            },
+            "summary": {
+                "none": [
+                    "http://handle.slv.vic.gov.au/10381/92966"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "none": [
+                            "Painter"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "Tensfeld, J., fl, 1862-1865, artist"
+                        ]
+                    }
+                }
+            ],
+            "width": 4891,
+            "height": 3575,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jxkgscyew7qenywxkfn4ca2h/manifest/canvases/4575/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jxkgscyew7qenywxkfn4ca2h/manifest/canvases/4575/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "iaw/images/iiif/01JXKG9G8N16EXR2VB9NVSGVGW/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 4891,
+                                "height": 3575,
+                                "service": [
+                                    {
+                                        "id": "iaw/images/iiif/01JXKG9G8N16EXR2VB9NVSGVGW",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jxkgscyew7qenywxkfn4ca2h/manifest/canvases/4575"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPCQ2YKVR2BZKCQYGKM3/page/4575",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPCQ2YKVR2BZKCQYGKM3",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Horse troughs"
+                            ]
+                        }
+                    },
+                    "next": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPCQ2YKVR2BZKCQYGKM3/page/4576",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPCQ2YKVR2BZKCQYGKM3/annotations/17933",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-13 02:05:55",
+                            "modified": "2025-06-13 02:06:31",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkgscyew7qenywxkfn4ca2h/manifest/canvases/4575",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=2550.391845703125,2319.51416015625,204.0546875,322.739501953125"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Horse trough"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: By 1862, a horse trough was present outside the Manchester Hotel - but there is no hitching post to use for nearby drinkers."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "linking",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Link: [Country and City at eMelbourne](https://www.emelbourne.net.au/biogs/EM00410b.htm)"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jxkgscyew7qenywxkfn4ca2h/manifest/canvases/4576",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "M. Cutts Cricket Club Hotel, Flemington, c. 1890"
+                ]
+            },
+            "summary": {
+                "none": [
+                    "http://handle.slv.vic.gov.au/10381/69456"
+                ]
+            },
+            "width": 5302,
+            "height": 3752,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jxkgscyew7qenywxkfn4ca2h/manifest/canvases/4576/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jxkgscyew7qenywxkfn4ca2h/manifest/canvases/4576/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "iaw/images/iiif/01JXKGB9S7053R8A3ZSFVH2YJ9/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 5302,
+                                "height": 3752,
+                                "service": [
+                                    {
+                                        "id": "iaw/images/iiif/01JXKGB9S7053R8A3ZSFVH2YJ9",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jxkgscyew7qenywxkfn4ca2h/manifest/canvases/4576"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPCQ2YKVR2BZKCQYGKM3/page/4576",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPCQ2YKVR2BZKCQYGKM3",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Horse troughs"
+                            ]
+                        }
+                    },
+                    "prev": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPCQ2YKVR2BZKCQYGKM3/page/4575",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPCQ2YKVR2BZKCQYGKM3/annotations/17934",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-13 02:07:51",
+                            "modified": "2025-06-13 02:07:51",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkgscyew7qenywxkfn4ca2h/manifest/canvases/4576",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=367.1737365722656,1708.3380126953125,1717.4009704589844,276.4154052734375"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Cricket"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: From the 1860s onwards, cricket clubs formed throughout Melbourne's suburbs - often centred around pubs, as well as workplaces and social organisations."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "linking",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Link: [Cricket at eMelbourne](https://www.emelbourne.net.au/biogs/EM00419b.htm)"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPCQ2YKVR2BZKCQYGKM3/annotations/17935",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-13 02:08:09",
+                            "modified": "2025-06-13 02:08:09",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkgscyew7qenywxkfn4ca2h/manifest/canvases/4576",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=249.35733032226562,2564.772705078125,1844.2801208496094,725.024169921875"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Horse trough"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: M. Cutts' customers, who favoured his hotel in Flemington, were able to hitch their horses to a post at the end of the trough."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

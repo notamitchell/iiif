@@ -1,0 +1,166 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "iaw/data/publications/image-sets/01jy62fdqppjy5sc2fzxjsg1zw/manifest",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Rebuilding the Town Hall"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Patrick Gigacz"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Created"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-19T05:33:55.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Modified"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-19T05:33:55.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Published"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-20T07:05:02.000000Z"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "iaw/images/iiif/01JY3AVJQSPJZKKEXS3J0QMC1A/full/300,/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 300,
+            "height": 206,
+            "service": [
+                {
+                    "id": "iaw/images/iiif/01JY3AVJQSPJZKKEXS3J0QMC1A",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "iaw/data/publications/image-sets/01jy62fdqppjy5sc2fzxjsg1zw/manifest/canvases/4635",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Workers reconstructing Town Hall, c. 1925"
+                ]
+            },
+            "summary": {
+                "none": [
+                    "City of Melbourne Art and Heritage Collection, item no. 1728477, https://citycollection.melbourne.vic.gov.au/image-showing-fire-damage-to-melbourne-town-hall-4/."
+                ]
+            },
+            "width": 1024,
+            "height": 702,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jy62fdqppjy5sc2fzxjsg1zw/manifest/canvases/4635/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jy62fdqppjy5sc2fzxjsg1zw/manifest/canvases/4635/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "iaw/images/iiif/01JY3AVJQSPJZKKEXS3J0QMC1A/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1024,
+                                "height": 702,
+                                "service": [
+                                    {
+                                        "id": "iaw/images/iiif/01JY3AVJQSPJZKKEXS3J0QMC1A",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jy62fdqppjy5sc2fzxjsg1zw/manifest/canvases/4635"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jy62fdqppjy5sc2fzxjsg1zw/manifest/canvases/4636",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Steelwork being erected in Town Hall rebuild, c. 1925"
+                ]
+            },
+            "summary": {
+                "none": [
+                    "City of Melbourne Art and Heritage Collection, item no. 1728479, https://citycollection.melbourne.vic.gov.au/image-showing-fire-damage-to-melbourne-town-hall-6/."
+                ]
+            },
+            "width": 720,
+            "height": 1024,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jy62fdqppjy5sc2fzxjsg1zw/manifest/canvases/4636/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jy62fdqppjy5sc2fzxjsg1zw/manifest/canvases/4636/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "iaw/images/iiif/01JY3AZEX4V5TRZSJ2H7FX280X/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 720,
+                                "height": 1024,
+                                "service": [
+                                    {
+                                        "id": "iaw/images/iiif/01JY3AZEX4V5TRZSJ2H7FX280X",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jy62fdqppjy5sc2fzxjsg1zw/manifest/canvases/4636"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

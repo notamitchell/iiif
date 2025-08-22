@@ -1,0 +1,496 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "iaw/data/publications/image-sets/01jyr0bjzz1g2mcmatm1a11spr/manifest",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Melbourne. Set 1. Melbourne. Set 1."
+        ]
+    },
+    "summary": {
+        "none": [
+            "\n    Melbourne. Set 1.\n   Melbourne. Set 1."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Patrick Gigacz"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Created"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-27T01:58:23.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Modified"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-27T01:58:23.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Published"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-27T06:14:19.000000Z"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE1295697:FL20974207.jpg/full/300,/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 300,
+            "height": 195,
+            "service": [
+                {
+                    "id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE1295697:FL20974207.jpg",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "iaw/data/publications/image-sets/01jyr0bjzz1g2mcmatm1a11spr/manifest/canvases/4644",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Image H95"
+                ]
+            },
+            "width": 7000,
+            "height": 4532,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jyr0bjzz1g2mcmatm1a11spr/manifest/canvases/4644/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jyr0bjzz1g2mcmatm1a11spr/manifest/canvases/4644/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE1295697:FL20974207.jpg/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 7000,
+                                "height": 4532,
+                                "service": [
+                                    {
+                                        "id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE1295697:FL20974207.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jyr0bjzz1g2mcmatm1a11spr/manifest/canvases/4644"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPGNTQ8CHEW7D5EXQ4V9/page/4644",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPGNTQ8CHEW7D5EXQ4V9",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Welcome"
+                            ]
+                        }
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPGNTQ8CHEW7D5EXQ4V9/annotations/18679",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-27 02:00:57",
+                            "modified": "2025-06-27 02:00:57",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jyr0bjzz1g2mcmatm1a11spr/manifest/canvases/4644",
+                                "selector": {
+                                    "type": "SvgSelector",
+                                    "value": "<svg><polygon points=\"3255.550048828125,1637.05029296875 3566.205322265625,1677.7919921875 3576.390869140625,3088.472900390625 3286.106201171875,3195.419677734375\"></polygon></svg>"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Cole's Book Arcade"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Opened in 1883 by Edward William Cole, Cole's claimed to be the largest bookstore in the world until it closed in 1929."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "linking",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Link: [Cole's Book Arcade at eMelbourne](https://www.emelbourne.net.au/biogs/EM00374b.htm)"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPGNTQ8CHEW7D5EXQ4V9/annotations/18680",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-27 02:10:06",
+                            "modified": "2025-06-27 02:10:06",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jyr0bjzz1g2mcmatm1a11spr/manifest/canvases/4644",
+                                "selector": {
+                                    "type": "SvgSelector",
+                                    "value": "<svg><polygon points=\"4437.51611328125,1864.6090087890625 4443.17138671875,2635.611083984375 4595.86376953125,2639.38134765625 4595.86376953125,2820.35009765625 4752.326171875,2778.878173828125 4757.9814453125,2580.943603515625 4620.3701171875,2575.288330078125 4622.2548828125,1898.5406494140625\"></polygon></svg>"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Royal Arcade"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: By 1925, the Royal Arcade was firmly established as one of Melbourne's premier shopping destinations, famous for tenants including the Royal Turkish Baths and Thomas Gaunt, jeweller."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "linking",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Link: [Royal Arcade at eMelbourne](https://www.emelbourne.net.au/biogs/EM01269b.htm)"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPGNTQ8CHEW7D5EXQ4V9/annotations/18681",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-27 02:12:01",
+                            "modified": "2025-06-27 02:12:01",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jyr0bjzz1g2mcmatm1a11spr/manifest/canvases/4644",
+                                "selector": {
+                                    "type": "SvgSelector",
+                                    "value": "<svg><polygon points=\"5034.615234375,1578.228271484375 5237.52392578125,1575.610107421875 5317.37841796875,1644.991943359375 5347.48779296875,2392.48291015625 5251.92431640625,2452.700927734375 5237.52392578125,1896.33740234375 5236.21484375,1787.682861328125 5038.54248046875,1790.301025390625\"></polygon></svg>"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Danks"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: John Danks and Son was a hardware merchant and manufacturer."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "linking",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Link: [Danks, John & Son Pty Ltd at eMelbourne](https://www.emelbourne.net.au/biogs/EM00443b.htm)"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPGNTQ8CHEW7D5EXQ4V9/annotations/18682",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-27 02:15:43",
+                            "modified": "2025-06-27 02:15:43",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jyr0bjzz1g2mcmatm1a11spr/manifest/canvases/4644",
+                                "selector": {
+                                    "type": "SvgSelector",
+                                    "value": "<svg><polygon points=\"5336.08349609375,4072.23876953125 6651.6318359375,4053.903564453125 6207.00390625,2646.679443359375 5931.9765625,2655.846923828125\"></polygon></svg>"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Central Bourke Street"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Nestled between the hills to the east and west, Bourke Street between Swanston and Elizabeth Streets gradually assumed its place as the principal retailing strip of Melbourne by the early 20th century."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "linking",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Link: [Bourke Street at eMelbourne](https://www.emelbourne.net.au/biogs/EM00219b.htm)"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPGNTQ8CHEW7D5EXQ4V9/annotations/18683",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-27 02:20:58",
+                            "modified": "2025-06-27 02:20:58",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jyr0bjzz1g2mcmatm1a11spr/manifest/canvases/4644",
+                                "selector": {
+                                    "type": "SvgSelector",
+                                    "value": "<svg><polygon points=\"2012.8345947265625,4122.66015625 4996.8828125,2894.2041015625 5015.21826171875,2724.60400390625 5230.65625,2687.93359375 5244.40771484375,2797.944580078125 5345.2509765625,2752.106689453125 5354.4189453125,2683.349853515625 5459.84619140625,2646.679443359375 5757.79248046875,2270.80859375 5766.9599609375,2197.4677734375 5826.54931640625,2197.4677734375 5831.13330078125,2238.721923828125 5881.5546875,2234.13818359375 5689.03564453125,2706.268798828125 3759.25927734375,4118.07666015625\"></polygon></svg>"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Trams"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Although conversion of the city's tram network to electricity had begun by 1925, Bourke Street would remain home to cable trams for more than a decade to come. Trams along Bourke Street ran to East Brunswick along Nicholson Street and Queens Parade to Clifton Hill."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "linking",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Link: [Cable Trams at eMelbourne](https://www.emelbourne.net.au/biogs/EM00275b.htm)"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPGNTQ8CHEW7D5EXQ4V9/annotations/18684",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-27 02:22:23",
+                            "modified": "2025-06-27 02:22:23",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jyr0bjzz1g2mcmatm1a11spr/manifest/canvases/4644",
+                                "selector": {
+                                    "type": "SvgSelector",
+                                    "value": "<svg><polygon points=\"1627.63671875,476.8798522949219 1613.8853759765625,2810.02978515625 2416.048828125,2823.78125 2411.465087890625,3575.52294921875 435.8509216308594,4171.416015625 467.93743896484375,444.7933044433594 463.3536682128906,444.7933044433594\"></polygon></svg>"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Leviathan Men's Clothing Store"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: One of Melbourne's most popular department stores in 1925."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "linking",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Link: [Leviathan at eMelbourne](https://www.emelbourne.net.au/biogs/EM00850b.htm)"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPGNTQ8CHEW7D5EXQ4V9/annotations/18685",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-27 02:24:15",
+                            "modified": "2025-06-27 02:24:15",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jyr0bjzz1g2mcmatm1a11spr/manifest/canvases/4644",
+                                "selector": {
+                                    "type": "SvgSelector",
+                                    "value": "<svg><polygon points=\"6202.2607421875,1375.302978515625 6115.1689453125,1902.4390869140625 6142.67138671875,2626.67822265625 6257.2666015625,2622.094482421875 6248.0986328125,2617.510498046875\"></polygon></svg>"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: General Post Office"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Almost hidden behind the facades of department stores is the edifice of the General Post Office, traditionally considered the centre point of the Melbourne metropolis."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "linking",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Link: [General Post Office at eMelbourne](https://www.emelbourne.net.au/biogs/EM00634b.htm)"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

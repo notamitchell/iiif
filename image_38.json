@@ -1,0 +1,404 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "iaw/data/publications/image-sets/01jy6172wx93tn4dhtagjhcvt8/manifest",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "25/0598 Re new site for Town Hall"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Patrick Gigacz"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Created"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-20T06:37:42.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Modified"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-20T06:37:42.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Published"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-20T06:43:00.000000Z"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "iaw/images/iiif/01JY60X4N5DEWBK32G6ZZR5R6H/full/300,/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 300,
+            "height": 131,
+            "service": [
+                {
+                    "id": "iaw/images/iiif/01JY60X4N5DEWBK32G6ZZR5R6H",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "iaw/data/publications/image-sets/01jy6172wx93tn4dhtagjhcvt8/manifest/canvases/4638",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/0598"
+                ]
+            },
+            "width": 4582,
+            "height": 1993,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jy6172wx93tn4dhtagjhcvt8/manifest/canvases/4638/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jy6172wx93tn4dhtagjhcvt8/manifest/canvases/4638/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "iaw/images/iiif/01JY60X4N5DEWBK32G6ZZR5R6H/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 4582,
+                                "height": 1993,
+                                "service": [
+                                    {
+                                        "id": "iaw/images/iiif/01JY60X4N5DEWBK32G6ZZR5R6H",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jy6172wx93tn4dhtagjhcvt8/manifest/canvases/4638"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPFBFM07TGWD4VR4873Q/page/4638",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPFBFM07TGWD4VR4873Q",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Town Hall fire"
+                            ]
+                        }
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPFBFM07TGWD4VR4873Q/annotations/18195",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-20 06:40:00",
+                            "modified": "2025-06-20 06:40:00",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jy6172wx93tn4dhtagjhcvt8/manifest/canvases/4638",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=362.5754089355469,459.7222595214844,1010.3570861816406,108.34249877929688"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: First letter"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Edmond Sutton Slee, a hawker from North Carlton, had written to the Council just a few days prior to the fire, seeking interest in a series of inventions."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPFBFM07TGWD4VR4873Q/annotations/18196",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-20 06:40:58",
+                            "modified": "2025-06-20 06:40:58",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jy6172wx93tn4dhtagjhcvt8/manifest/canvases/4638",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=1366.5675048828125,443.01702880859375,592.48046875,124.895751953125"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Subject"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Bringing under notice models for (1) laying disks (2) Building Bridges (3) prevention of smoke nuisance"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPFBFM07TGWD4VR4873Q/annotations/18197",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-20 06:41:40",
+                            "modified": "2025-06-20 06:41:40",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jy6172wx93tn4dhtagjhcvt8/manifest/canvases/4638",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=1952.6292724609375,429.46441650390625,227.2686767578125,99.4300537109375"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Referrals"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: City Engineer 27/1\nTown Clerk 20/1\nCity Council 31/1\nReplied 2/2"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPFBFM07TGWD4VR4873Q/annotations/18198",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-20 06:42:03",
+                            "modified": "2025-06-20 06:42:03",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jy6172wx93tn4dhtagjhcvt8/manifest/canvases/4638",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=363.3822326660156,837.10302734375,1018.4477233886719,117.8956298828125"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Second letter"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Two days after the Town Hall burnt, Slee wrote back."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPFBFM07TGWD4VR4873Q/annotations/18199",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-20 06:42:23",
+                            "modified": "2025-06-20 06:42:23",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jy6172wx93tn4dhtagjhcvt8/manifest/canvases/4638",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=1333.5352783203125,822.8987426757812,623.5684814453125,119.3160400390625"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Subject"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Re new site for Town Hall"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPFBFM07TGWD4VR4873Q/annotations/18200",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-20 06:42:39",
+                            "modified": "2025-06-20 06:42:39",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jy6172wx93tn4dhtagjhcvt8/manifest/canvases/4638",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=1950.0015869140625,821.4783325195312,232.9503173828125,102.2708740234375"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Referrals"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: This time, the file was given short shrift."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

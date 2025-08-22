@@ -1,0 +1,184 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "iaw/data/publications/image-sets/01jy3aat5r045z1e9t9py0wm9x/manifest",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "23/5055 Result of test of fire appliances in the Melbourne Town Hall and Municipal Buildings North Melbourne and Flemington and Kensington"
+        ]
+    },
+    "summary": {
+        "none": [
+            "Sender : Metropolitan Fire Brigades Board"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Patrick Gigacz"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Created"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-19T05:14:19.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Modified"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-19T05:14:19.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Published"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-19T05:24:36.000000Z"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://images.prov.vic.gov.au/loris/2168%2F3837%2F98%2Fimages%2F2%2Ffiles%2F03183-P0002-000071-23_5055-0002.jp2/full/300,/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 300,
+            "height": 493,
+            "service": [
+                {
+                    "id": "https://images.prov.vic.gov.au/loris/2168%2F3837%2F98%2Fimages%2F2%2Ffiles%2F03183-P0002-000071-23_5055-0002.jp2",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "iaw/data/publications/image-sets/01jy3aat5r045z1e9t9py0wm9x/manifest/canvases/4633",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "23/5055 (2)"
+                ]
+            },
+            "width": 2452,
+            "height": 4026,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jy3aat5r045z1e9t9py0wm9x/manifest/canvases/4633/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jy3aat5r045z1e9t9py0wm9x/manifest/canvases/4633/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/2168%2F3837%2F98%2Fimages%2F2%2Ffiles%2F03183-P0002-000071-23_5055-0002.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2452,
+                                "height": 4026,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/2168%2F3837%2F98%2Fimages%2F2%2Ffiles%2F03183-P0002-000071-23_5055-0002.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jy3aat5r045z1e9t9py0wm9x/manifest/canvases/4633"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPEGWEG9BM9BENBY6YMN/page/4633",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPEGWEG9BM9BENBY6YMN",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Town Hall fire"
+                            ]
+                        }
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPEGWEG9BM9BENBY6YMN/annotations/18102",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-19 05:16:17",
+                            "modified": "2025-06-19 05:16:17",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jy3aat5r045z1e9t9py0wm9x/manifest/canvases/4633",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=164.6981658935547,1072.10693359375,1193.5177764892578,514.570556640625"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Fire appliance testing"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Happily for Henry Legge, the Town Hall's firefighting equipment was in good order and tested regularly by the Metropolitan Fire Brigade - although after the fire, the Chief Officer of the MFB chastised the City Council for not installing an automatic sprinkler system."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

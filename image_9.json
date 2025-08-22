@@ -1,0 +1,704 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "iaw/data/publications/image-sets/01jwytj69yaft7125k2mvayavq/manifest",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "25/5005 Application for permission to erect lamp standards and globes with festoons of incandescent lamp on cantilever verandahs at Melba and Britannia Picture Theatres, Bourke Street"
+        ]
+    },
+    "summary": {
+        "none": [
+            "Sender : Building Surveyor"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Patrick Gigacz"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Created"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-03T04:41:57.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Modified"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-03T04:41:57.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Published"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-05T01:16:21.000000Z"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://images.prov.vic.gov.au/loris/1168%2F3934%2F11%2Fimages%2F2%2Ffiles%2F03183-P0002-000089-25_5005-0002.jp2/full/300,/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 300,
+            "height": 482,
+            "service": [
+                {
+                    "id": "https://images.prov.vic.gov.au/loris/1168%2F3934%2F11%2Fimages%2F2%2Ffiles%2F03183-P0002-000089-25_5005-0002.jp2",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "iaw/data/publications/image-sets/01jwytj69yaft7125k2mvayavq/manifest/canvases/4508",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/5005 - Report from H.E. Morton to Traffic and Building Regulations Committee"
+                ]
+            },
+            "width": 2448,
+            "height": 3927,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jwytj69yaft7125k2mvayavq/manifest/canvases/4508/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jwytj69yaft7125k2mvayavq/manifest/canvases/4508/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/1168%2F3934%2F11%2Fimages%2F2%2Ffiles%2F03183-P0002-000089-25_5005-0002.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2448,
+                                "height": 3927,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/1168%2F3934%2F11%2Fimages%2F2%2Ffiles%2F03183-P0002-000089-25_5005-0002.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jwytj69yaft7125k2mvayavq/manifest/canvases/4508"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPARCFRS09CHYW7PZWTM/page/4508",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPARCFRS09CHYW7PZWTM",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Lamps and Lighting"
+                            ]
+                        }
+                    },
+                    "next": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPARCFRS09CHYW7PZWTM/page/4507",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPARCFRS09CHYW7PZWTM/annotations/17884",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-03 04:47:44",
+                            "modified": "2025-06-03 04:47:44",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwytj69yaft7125k2mvayavq/manifest/canvases/4508",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=331.9889221191406,1250.546630859375,1929.4881286621094,68.6162109375"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Melba and Britannia Theatres"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Among the first permanent cinemas in Melbourne, J.D. Williams' Melba and Britannia Theatres were constructed in 1911 and 1912 to capitalise on the growing popularity of film. During the 1920s, Bourke Street became home to many of the city's most luxurious cinemas. The Melba and Britannia were demolished in the 1930s as the Great Depression reduced audience numbers."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "linking",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Link: [Cinemas at eMelbourne](https://www.emelbourne.net.au/biogs/EM00347b.htm)"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "linking",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Link: [Britannia Theatre demolition at Trove](https://trove.nla.gov.au/newspaper/article/4431193)"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPARCFRS09CHYW7PZWTM/annotations/17885",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-03 05:08:50",
+                            "modified": "2025-06-03 05:08:50",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwytj69yaft7125k2mvayavq/manifest/canvases/4508",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=1232.2337646484375,1423.45947265625,562.653076171875,101.552001953125"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Paramount Theatre"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: The Paramount Theatre, also in Bourke Street, had been extensively remodelled in 1921 on the advice of European lighting designers, which was doubtless a model for nearby cinema owners."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "linking",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Link: [Article at Trove](https://trove.nla.gov.au/newspaper/article/146318692)"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPARCFRS09CHYW7PZWTM/annotations/17886",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-03 05:51:14",
+                            "modified": "2025-06-05 01:21:23",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwytj69yaft7125k2mvayavq/manifest/canvases/4508",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=1589.587158203125,2205.988037109375,853.036865234375,260.19287109375"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Henry Edgar Morton"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Having served as City Architect in 1907, Henry Edgar Morton became one of the most powerful staff of the City Council in 1915 when he took over a wider range of responsibilities to become City Engineer and Building Surveyor. He resigned in 1927 to serve as a commissioner for the City of Sydney, before later returning to Melbourne as a councillor."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPARCFRS09CHYW7PZWTM/annotations/17905",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 01:35:05",
+                            "modified": "2025-06-05 01:35:05",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwytj69yaft7125k2mvayavq/manifest/canvases/4508",
+                                "selector": {
+                                    "type": "SvgSelector",
+                                    "value": "<svg><polygon points=\"428.0515441894531,1534.0030517578125 2269.7109375,1534.0030517578125 2261.47705078125,1627.321044921875 406.0943603515625,1632.8104248046875 397.86041259765625,1723.3837890625 202.99034118652344,1723.3837890625 208.47962951660156,1616.342529296875 422.562255859375,1608.1085205078125 422.562255859375,1605.3638916015625\"></polygon></svg>"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Evolving regulations"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Rapid changes in building and lighting technology, combined with the prescriptive approach of the Regulations, meant that approvals could require more extensive consideration by the Council bureaucracy."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jwytj69yaft7125k2mvayavq/manifest/canvases/4507",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/5005 - Minute paper"
+                ]
+            },
+            "width": 2416,
+            "height": 3923,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jwytj69yaft7125k2mvayavq/manifest/canvases/4507/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jwytj69yaft7125k2mvayavq/manifest/canvases/4507/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/1168%2F3934%2F11%2Fimages%2F1%2Ffiles%2F03183-P0002-000089-25_5005-0001.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2416,
+                                "height": 3923,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/1168%2F3934%2F11%2Fimages%2F1%2Ffiles%2F03183-P0002-000089-25_5005-0001.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jwytj69yaft7125k2mvayavq/manifest/canvases/4507"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPARCFRS09CHYW7PZWTM/page/4507",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPARCFRS09CHYW7PZWTM",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Lamps and Lighting"
+                            ]
+                        }
+                    },
+                    "prev": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPARCFRS09CHYW7PZWTM/page/4508",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPARCFRS09CHYW7PZWTM/annotations/17883",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-03 04:42:32",
+                            "modified": "2025-06-03 04:42:32",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwytj69yaft7125k2mvayavq/manifest/canvases/4507",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=65.56106567382812,717.0133056640625,2339.714813232422,292.46435546875"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Application for permission to erect lamp standards and globes with festoons of incandescent lamp on cantilever verandahs at Melba and Britannia Picture Theatres, Bourke Street"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPARCFRS09CHYW7PZWTM/annotations/17899",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 01:24:11",
+                            "modified": "2025-06-05 01:24:11",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwytj69yaft7125k2mvayavq/manifest/canvases/4507",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=1443.799560546875,2518.854736328125,287.8946533203125,120.641357421875"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Charles Kemp's initials"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Charles Herbert Kemp was Deputy City Engineer and Building Surveyor in 1925. He later took over from Morton as Building Surveyor, where he served until his death in 1937."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPARCFRS09CHYW7PZWTM/annotations/17900",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 01:24:35",
+                            "modified": "2025-06-05 01:24:35",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwytj69yaft7125k2mvayavq/manifest/canvases/4507",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=857.0429077148438,2299.50634765625,921.2627563476562,219.348388671875"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Deputy City Engineer's assessment"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Noted: BA 7893\nApproval issued"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPARCFRS09CHYW7PZWTM/annotations/17901",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 01:28:31",
+                            "modified": "2025-06-05 01:30:06",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwytj69yaft7125k2mvayavq/manifest/canvases/4507",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=136.64622497558594,1028.127197265625,538.2157135009766,165.01904296875"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Committee referral"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Morton's report was considered at the 30 September 2025 meeting of the Traffic and Building Regulations Committee."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPARCFRS09CHYW7PZWTM/annotations/17902",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 01:29:16",
+                            "modified": "2025-06-05 01:29:16",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwytj69yaft7125k2mvayavq/manifest/canvases/4507",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=918.5822143554688,1083.979736328125,1317.6128540039062,520.4444580078125"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Committee approval"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Report approved\nTraffic and Building Regulations Committee\n30 September 1925"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPARCFRS09CHYW7PZWTM/annotations/17903",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 01:29:27",
+                            "modified": "2025-06-05 01:30:27",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwytj69yaft7125k2mvayavq/manifest/canvases/4507",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=187.42129516601562,1515.56787109375,538.2156677246094,281.8016357421875"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Council meeting referral"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: The TBRC's recommendation was considered at the 9 October 1925 meeting of the Council."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPARCFRS09CHYW7PZWTM/annotations/17904",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-05 01:33:00",
+                            "modified": "2025-06-05 01:33:00",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jwytj69yaft7125k2mvayavq/manifest/canvases/4507",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=14.993619918823242,1851.1326904296875,1127.8858966827393,221.4095458984375"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Referral to Building Surveyor for action"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

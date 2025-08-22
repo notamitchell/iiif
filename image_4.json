@@ -1,0 +1,705 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "St Kilda Road horse trough"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Patrick Gigacz"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Created"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-13T02:27:39.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Modified"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-13T02:27:39.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Published"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-13T02:42:54.000000Z"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "iaw/images/iiif/01JXKHQE1N52A8FMHNDJEK9K8Y/full/300,/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 300,
+            "height": 190,
+            "service": [
+                {
+                    "id": "iaw/images/iiif/01JXKHQE1N52A8FMHNDJEK9K8Y",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4577",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "\"D\" Miscellaneous"
+                ]
+            },
+            "width": 4756,
+            "height": 3008,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4577/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4577/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "iaw/images/iiif/01JXKHQE1N52A8FMHNDJEK9K8Y/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 4756,
+                                "height": 3008,
+                                "service": [
+                                    {
+                                        "id": "iaw/images/iiif/01JXKHQE1N52A8FMHNDJEK9K8Y",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4577"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPCZDQ1QGX1GZQCZAQHA/page/4577",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPCZDQ1QGX1GZQCZAQHA",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Horse troughs"
+                            ]
+                        }
+                    },
+                    "next": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPCZDQ1QGX1GZQCZAQHA/page/4578",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPCZDQ1QGX1GZQCZAQHA/annotations/17936",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-13 02:29:22",
+                            "modified": "2025-06-13 02:29:22",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4577",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=2518.17529296875,2280.211181640625,1598.17041015625,130.42333984375"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Drinking Trough \"Memorial to Horses and Dog\" St. Kilda Rd"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4578",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Correspondence, part 1"
+                ]
+            },
+            "width": 4582,
+            "height": 1993,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4578/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4578/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "iaw/images/iiif/01JXKHQZQS7QFEMZ6T9CTS39KB/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 4582,
+                                "height": 1993,
+                                "service": [
+                                    {
+                                        "id": "iaw/images/iiif/01JXKHQZQS7QFEMZ6T9CTS39KB",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4578"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPCZDQ1QGX1GZQCZAQHA/page/4578",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPCZDQ1QGX1GZQCZAQHA",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Horse troughs"
+                            ]
+                        }
+                    },
+                    "prev": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPCZDQ1QGX1GZQCZAQHA/page/4577",
+                        "type": "AnnotationPage"
+                    },
+                    "next": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPCZDQ1QGX1GZQCZAQHA/page/4579",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPCZDQ1QGX1GZQCZAQHA/annotations/17937",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-13 02:30:21",
+                            "modified": "2025-06-13 02:30:21",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4578",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=400.055908203125,1472.8798828125,1012.6414794921875,109.3902587890625"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Purple Cross Society"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: The Purple Cross Society had similar sentiments to the Red Cross Society but with its focus being animals, and contacted the Council in April 1924"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPCZDQ1QGX1GZQCZAQHA/annotations/17938",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-13 02:31:03",
+                            "modified": "2025-06-13 02:31:20",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4578",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=1406.446533203125,1463.5035400390625,612.585693359375,120.329345703125"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Subject"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Permission to erect a Memorial Drinking Trough to the horses and dogs who fell in the Great War - in St Kilda Rd at corner Domain Rd"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPCZDQ1QGX1GZQCZAQHA/annotations/17939",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-13 02:32:28",
+                            "modified": "2025-06-13 02:32:28",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4578",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=1990.592529296875,1460.468994140625,239.0908203125,109.0909423828125"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Referrals"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Initially, it looks as though the permission progressed fairly swiftly through the office of the City Engineer and the Public Works Committee, referred for action or a reply by mid-May."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4579",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Correspondence, part 2"
+                ]
+            },
+            "width": 4582,
+            "height": 1993,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4579/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4579/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "iaw/images/iiif/01JXKHS4MWJ6YH9YA59BBX1MXQ/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 4582,
+                                "height": 1993,
+                                "service": [
+                                    {
+                                        "id": "iaw/images/iiif/01JXKHS4MWJ6YH9YA59BBX1MXQ",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4579"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPCZDQ1QGX1GZQCZAQHA/page/4579",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPCZDQ1QGX1GZQCZAQHA",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Horse troughs"
+                            ]
+                        }
+                    },
+                    "prev": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPCZDQ1QGX1GZQCZAQHA/page/4578",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPCZDQ1QGX1GZQCZAQHA/annotations/17940",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-13 02:33:16",
+                            "modified": "2025-06-13 02:33:16",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4579",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=389.7504577636719,332.5335693359375,1017.0692443847656,127.62200927734375"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Purple Cross Society"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: The Society wrote back to the Council in September with a proposed design."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPCZDQ1QGX1GZQCZAQHA/annotations/17941",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-13 02:34:04",
+                            "modified": "2025-06-13 02:34:04",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4579",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=1387.28564453125,323.417724609375,596.4375,128.92425537109375"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Subject"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Design of Memorial Trough to A.I.F. horses to be erected corner Domain and St Kilda Rds, re plumbing of trough and lighting of purple globe"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPCZDQ1QGX1GZQCZAQHA/annotations/17942",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-13 02:34:54",
+                            "modified": "2025-06-13 02:34:54",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4579",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=1974.73046875,308.34783935546875,264,116.727294921875"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Referrals"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: This time, it seems that the City Engineer needed more information to make a decision."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPCZDQ1QGX1GZQCZAQHA/annotations/17943",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-13 02:35:23",
+                            "modified": "2025-06-13 02:35:23",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4579",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=395.0344543457031,1100.7398681640625,1010.0944519042969,98.96728515625"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Purple Cross Society"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: The Society wrote back in mid-October, perhaps with further information on the design."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPCZDQ1QGX1GZQCZAQHA/annotations/17944",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-13 02:35:46",
+                            "modified": "2025-06-13 02:35:46",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4579",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=1391.9378662109375,1089.333251953125,582.54541015625,102.54541015625"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Subject"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: Proposed memorial trough (drinking) in St Kilda Rd"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPCZDQ1QGX1GZQCZAQHA/annotations/17945",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-06-13 02:37:55",
+                            "modified": "2025-06-13 02:37:55",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest/canvases/4579",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=1983.71337890625,1076.63525390625,238.181884765625,111.818115234375"
+                                }
+                            },
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Title: Referrals"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "classifying",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Color: #506DAC"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "describing",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Description: With the added complexity of plumbing and lighting, the design needed approval from the City Engineer, the Public Works Committee, the Electric Supply Committee and the City Electrical Engineer before proceeding. It seems final approval was given by the City Engineer in mid-November, in time for the trough to be complete by mid-1926. Interestingly, the matter had to be revisited in mid-1928."
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "purpose": "commenting",
+                                    "language": "en",
+                                    "format": "text/plain",
+                                    "value": "Line Weight: Medium"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
