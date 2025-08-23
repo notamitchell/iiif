@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "iaw/data/publications/image-sets/01jy39kce2qgs86q1he2z2pegh/manifest",
+    "id": "https://notamitchell.github.io/iiif/image_24.json",
     "type": "Manifest",
     "label": {
         "none": [
