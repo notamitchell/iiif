@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "iaw/data/publications/image-sets/01jxkjpdjxp2fhg0c7rdvaegrn/manifest",
+    "id": "https://notamitchell.github.io/iiif/image_4.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -59,14 +59,14 @@
     ],
     "thumbnail": [
         {
-            "id": "iaw/images/iiif/01JXKHQE1N52A8FMHNDJEK9K8Y/full/300,/0/default.jpg",
+            "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/618/full/300,/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "width": 300,
             "height": 190,
             "service": [
                 {
-                    "id": "iaw/images/iiif/01JXKHQE1N52A8FMHNDJEK9K8Y",
+                    "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/618",
                     "type": "ImageService3",
                     "profile": "level2"
                 }
@@ -94,14 +94,14 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "iaw/images/iiif/01JXKHQE1N52A8FMHNDJEK9K8Y/full/max/0/default.jpg",
+                                "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/618/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "width": 4756,
                                 "height": 3008,
                                 "service": [
                                     {
-                                        "id": "iaw/images/iiif/01JXKHQE1N52A8FMHNDJEK9K8Y",
+                                        "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/618",
                                         "type": "ImageService3",
                                         "profile": "level2"
                                     }
@@ -192,14 +192,14 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "iaw/images/iiif/01JXKHQZQS7QFEMZ6T9CTS39KB/full/max/0/default.jpg",
+                                "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/619/300,/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "width": 4582,
                                 "height": 1993,
                                 "service": [
                                     {
-                                        "id": "iaw/images/iiif/01JXKHQZQS7QFEMZ6T9CTS39KB",
+                                        "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/619",
                                         "type": "ImageService3",
                                         "profile": "level2"
                                     }
@@ -391,14 +391,14 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "iaw/images/iiif/01JXKHS4MWJ6YH9YA59BBX1MXQ/full/max/0/default.jpg",
+                                "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/620/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "width": 4582,
                                 "height": 1993,
                                 "service": [
                                     {
-                                        "id": "iaw/images/iiif/01JXKHS4MWJ6YH9YA59BBX1MXQ",
+                                        "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/620",
                                         "type": "ImageService3",
                                         "profile": "level2"
                                     }
