@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://notamitchell.github.io/iiif/image_17.json",
+    "id": "https://notamitchell.github.io/iiif/image_17.html",
     "type": "Manifest",
     "label": {
         "none": [
@@ -75,7 +75,7 @@
     ],
     "items": [
         {
-            "id": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4561",
+            "id": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4561",
             "type": "Canvas",
             "label": {
                 "none": [
@@ -86,15 +86,15 @@
             "height": 3008,
             "items": [
                 {
-                    "id": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4561/page",
+                    "id": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4561/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4561/page/page/annotation",
+                            "id": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4561/page/page/annotation",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/621/full/max/0/default.jpg",
+                                "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/621/full/300,/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "width": 4526,
@@ -107,17 +107,17 @@
                                     }
                                 ]
                             },
-                            "target": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4561"
+                            "target": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4561"
                         }
                     ]
                 }
             ],
             "annotations": [
                 {
-                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/page/4561",
+                    "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/page/4561",
                     "type": "AnnotationPage",
                     "partOf": {
-                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT",
+                        "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT",
                         "type": "AnnotationCollection",
                         "label": {
                             "none": [
@@ -126,18 +126,18 @@
                         }
                     },
                     "next": {
-                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/page/4562",
+                        "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/page/4562",
                         "type": "AnnotationPage"
                     },
                     "items": [
                         {
-                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17917",
+                            "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17917",
                             "type": "Annotation",
                             "motivation": "commenting",
                             "created": "2025-06-05 02:43:37",
                             "modified": "2025-06-05 02:43:37",
                             "target": {
-                                "source": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4561",
+                                "source": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4561",
                                 "selector": {
                                     "type": "SvgSelector",
                                     "value": "<svg><polygon points=\"2444.034912109375,1899.719482421875 4080.651123046875,1835.481201171875 4073.351318359375,1731.823974609375 2441.114990234375,1798.982177734375\"></polygon></svg>"
@@ -193,7 +193,7 @@
             ]
         },
         {
-            "id": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4562",
+            "id": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4562",
             "type": "Canvas",
             "label": {
                 "none": [
@@ -204,38 +204,38 @@
             "height": 3053,
             "items": [
                 {
-                    "id": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4562/page",
+                    "id": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4562/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4562/page/page/annotation",
+                            "id": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4562/page/page/annotation",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "iaw/images/iiif/01JWYZ826H8THDHPTVW9QBR5BD/full/max/0/default.jpg",
+                                "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/622/full/300,/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "width": 3686,
                                 "height": 3053,
                                 "service": [
                                     {
-                                        "id": "iaw/images/iiif/01JWYZ826H8THDHPTVW9QBR5BD",
+                                        "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/622",
                                         "type": "ImageService3",
                                         "profile": "level2"
                                     }
                                 ]
                             },
-                            "target": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4562"
+                            "target": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4562"
                         }
                     ]
                 }
             ],
             "annotations": [
                 {
-                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/page/4562",
+                    "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/page/4562",
                     "type": "AnnotationPage",
                     "partOf": {
-                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT",
+                        "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT",
                         "type": "AnnotationCollection",
                         "label": {
                             "none": [
@@ -244,22 +244,22 @@
                         }
                     },
                     "prev": {
-                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/page/4561",
+                        "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/page/4561",
                         "type": "AnnotationPage"
                     },
                     "next": {
-                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/page/4564",
+                        "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/page/4564",
                         "type": "AnnotationPage"
                     },
                     "items": [
                         {
-                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17918",
+                            "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17918",
                             "type": "Annotation",
                             "motivation": "commenting",
                             "created": "2025-06-05 02:44:44",
                             "modified": "2025-06-05 02:45:36",
                             "target": {
-                                "source": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4562",
+                                "source": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4562",
                                 "selector": {
                                     "type": "FragmentSelector",
                                     "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -302,7 +302,7 @@
             ]
         },
         {
-            "id": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
+            "id": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
             "type": "Canvas",
             "label": {
                 "none": [
@@ -313,38 +313,38 @@
             "height": 1993,
             "items": [
                 {
-                    "id": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564/page",
+                    "id": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564/page/page/annotation",
+                            "id": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564/page/page/annotation",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "iaw/images/iiif/01JWYZQFM1R8072J0FHB3F1ZW3/full/max/0/default.jpg",
+                                "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/623/full/300,/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "width": 4582,
                                 "height": 1993,
                                 "service": [
                                     {
-                                        "id": "iaw/images/iiif/01JWYZQFM1R8072J0FHB3F1ZW3",
+                                        "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/623",
                                         "type": "ImageService3",
                                         "profile": "level2"
                                     }
                                 ]
                             },
-                            "target": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564"
+                            "target": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564"
                         }
                     ]
                 }
             ],
             "annotations": [
                 {
-                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/page/4564",
+                    "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/page/4564",
                     "type": "AnnotationPage",
                     "partOf": {
-                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT",
+                        "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT",
                         "type": "AnnotationCollection",
                         "label": {
                             "none": [
@@ -353,18 +353,18 @@
                         }
                     },
                     "prev": {
-                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/page/4562",
+                        "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/page/4562",
                         "type": "AnnotationPage"
                     },
                     "items": [
                         {
-                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17919",
+                            "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17919",
                             "type": "Annotation",
                             "motivation": "commenting",
                             "created": "2025-06-05 02:47:21",
                             "modified": "2025-06-05 02:47:21",
                             "target": {
-                                "source": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
+                                "source": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
                                 "selector": {
                                     "type": "FragmentSelector",
                                     "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -403,13 +403,13 @@
                             ]
                         },
                         {
-                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17920",
+                            "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17920",
                             "type": "Annotation",
                             "motivation": "commenting",
                             "created": "2025-06-05 02:48:15",
                             "modified": "2025-06-05 02:48:15",
                             "target": {
-                                "source": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
+                                "source": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
                                 "selector": {
                                     "type": "FragmentSelector",
                                     "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -448,13 +448,13 @@
                             ]
                         },
                         {
-                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17921",
+                            "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17921",
                             "type": "Annotation",
                             "motivation": "commenting",
                             "created": "2025-06-05 02:56:58",
                             "modified": "2025-06-05 02:56:58",
                             "target": {
-                                "source": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
+                                "source": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
                                 "selector": {
                                     "type": "FragmentSelector",
                                     "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -514,13 +514,13 @@
                             ]
                         },
                         {
-                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17922",
+                            "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17922",
                             "type": "Annotation",
                             "motivation": "commenting",
                             "created": "2025-06-05 02:57:43",
                             "modified": "2025-06-05 02:57:43",
                             "target": {
-                                "source": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
+                                "source": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
                                 "selector": {
                                     "type": "FragmentSelector",
                                     "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -559,13 +559,13 @@
                             ]
                         },
                         {
-                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17923",
+                            "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17923",
                             "type": "Annotation",
                             "motivation": "commenting",
                             "created": "2025-06-05 02:58:05",
                             "modified": "2025-06-05 02:58:05",
                             "target": {
-                                "source": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
+                                "source": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
                                 "selector": {
                                     "type": "FragmentSelector",
                                     "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -597,13 +597,13 @@
                             ]
                         },
                         {
-                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17924",
+                            "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17924",
                             "type": "Annotation",
                             "motivation": "commenting",
                             "created": "2025-06-05 02:58:21",
                             "modified": "2025-06-05 02:58:21",
                             "target": {
-                                "source": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
+                                "source": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
                                 "selector": {
                                     "type": "SvgSelector",
                                     "value": "<svg><circle cx=\"1955.3562622070312\" cy=\"536.1526794433594\" r=\"37.15613853640246\"></circle></svg>"
@@ -634,13 +634,13 @@
                             ]
                         },
                         {
-                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17925",
+                            "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17925",
                             "type": "Annotation",
                             "motivation": "commenting",
                             "created": "2025-06-05 02:58:31",
                             "modified": "2025-06-05 02:58:31",
                             "target": {
-                                "source": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
+                                "source": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
                                 "selector": {
                                     "type": "SvgSelector",
                                     "value": "<svg><circle cx=\"2038.0835571289062\" cy=\"533.8799438476562\" r=\"36.10417068264833\"></circle></svg>"
@@ -671,13 +671,13 @@
                             ]
                         },
                         {
-                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17926",
+                            "id": "https://w3id.org/iaw/data/publications/annotation-sets/01JZ2ATPBRXQY558S1R7V25VMT/annotations/17926",
                             "type": "Annotation",
                             "motivation": "commenting",
                             "created": "2025-06-05 02:59:05",
                             "modified": "2025-06-05 02:59:05",
                             "target": {
-                                "source": "iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
+                                "source": "https://w3id.org/iaw/data/publications/image-sets/01jwz0es92m5vn4gan1j563363/manifest/canvases/4564",
                                 "selector": {
                                     "type": "SvgSelector",
                                     "value": "<svg><circle cx=\"2115.3563232421875\" cy=\"537.5163116455078\" r=\"41.58282413345177\"></circle></svg>"
