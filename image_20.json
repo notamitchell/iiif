@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/624/info.json",
+    "id": "https://notamitchell.github.io/iiif/image_21.json",
     "type": "Manifest",
     "label": {
         "none": [
