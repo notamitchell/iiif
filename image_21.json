@@ -153,7 +153,7 @@
                                 "source": "iaw/data/publications/image-sets/01jy62ev9zqxkx6pzc8z55ass8/manifest/canvases/4634",
                                 "selector": {
                                     "type": "SvgSelector",
-                                    "value": "<svg><circle cx=\"6022.74072265625\" cy=\"1453.2598266601562\" r=\"113.82259314036452\"></circle></svg>"
+                                    "value": "<svg><circle cx=\"3920\" cy=\"930\" r=\"90\"></circle></svg>"
                                 }
                             },
                             "body": [
