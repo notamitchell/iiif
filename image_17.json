@@ -263,7 +263,7 @@
                                 "selector": {
                                     "type": "FragmentSelector",
                                     "conformsTo": "http://www.w3.org/TR/media-frags/",
-                                    "value": "xywh=246.9210662841797,1114.9907531738281,266.72438049316406,85.351806640625"
+                                    "value": "xywh=246.9210662841797,1050,266.72438049316406,85.351806640625"
                                 }
                             },
                             "body": [
