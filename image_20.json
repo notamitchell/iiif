@@ -99,14 +99,14 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/624/full/max/0/default.jpg",
+                                "id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE9589531/manifest/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "width": 3841,
                                 "height": 5193,
                                 "service": [
                                     {
-                                        "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/624",
+                                        "id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE9589531/manifest",
                                         "type": "ImageService3",
                                         "profile": "level2"
                                     }
