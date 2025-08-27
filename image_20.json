@@ -87,8 +87,8 @@
                     "http://handle.slv.vic.gov.au/10381/115385"
                 ]
             },
-            "width": 3841,
-            "height": 5193,
+            "width": 5142,
+            "height": 7000,
             "items": [
                 {
                     "id": "https://w3id.org/iaw/data/publications/image-sets/01jyne3tnbd3p0hd7fgg4jdpvw/manifest/canvases/4642/page",
@@ -102,8 +102,8 @@
                                 "id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE9589531:FL21661988.jpg/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "width": 3841,
-                                "height": 5193,
+                                "width": 5142,
+                                "height": 7000,
                                 "service": [
                                     {
                                         "id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE9589531:FL21661988.jpg",
