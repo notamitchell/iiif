@@ -67,7 +67,7 @@
             "service": [
                 {
                     "id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE9589531:FL21661988.jpg",
-                    "type": "ImageService3",
+                    "type": "ImageService2",
                     "profile": "level2"
                 }
             ]
@@ -107,7 +107,7 @@
                                 "service": [
                                     {
                                         "id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE9589531:FL21661988.jpg",
-                                        "type": "ImageService3",
+                                        "type": "ImageService2",
                                         "profile": "level2"
                                     }
                                 ]
