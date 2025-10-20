@@ -1,0 +1,161 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://notamitchell.github.io/iiif/image_52.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "25/1724 Suggestion for control of pedestrian traffic at Street Intersections"
+        ]
+    },
+    "summary": {
+        "none": [
+            "Sender : A L Ayscough"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Patrick Gigacz"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Created"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-09-23T05:11:16.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Modified"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-09-23T05:11:16.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Published"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-09-24T06:59:36.000000Z"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://images.prov.vic.gov.au/loris/3168%2F3913%2F79%2Fimages%2F1%2Ffiles%2F03183-P0002-000085-25_1724-0001.jp2/full/300,/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 300,
+            "height": 486,
+            "service": [
+                {
+                    "id": "https://images.prov.vic.gov.au/loris/3168%2F3913%2F79%2Fimages%2F1%2Ffiles%2F03183-P0002-000085-25_1724-0001.jp2",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "iaw/data/publications/image-sets/01k5x8af96ctdm11a2d01ysjpr/manifest/canvases/5232",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/1724 (1)"
+                ]
+            },
+            "width": 2424,
+            "height": 3921,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01k5x8af96ctdm11a2d01ysjpr/manifest/canvases/5232/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01k5x8af96ctdm11a2d01ysjpr/manifest/canvases/5232/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/3168%2F3913%2F79%2Fimages%2F1%2Ffiles%2F03183-P0002-000085-25_1724-0001.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2424,
+                                "height": 3921,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/3168%2F3913%2F79%2Fimages%2F1%2Ffiles%2F03183-P0002-000085-25_1724-0001.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01k5x8af96ctdm11a2d01ysjpr/manifest/canvases/5232"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01k5x8af96ctdm11a2d01ysjpr/manifest/canvases/5233",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25/1724 (2)"
+                ]
+            },
+            "width": 2492,
+            "height": 3969,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01k5x8af96ctdm11a2d01ysjpr/manifest/canvases/5233/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01k5x8af96ctdm11a2d01ysjpr/manifest/canvases/5233/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/3168%2F3913%2F79%2Fimages%2F2%2Ffiles%2F03183-P0002-000085-25_1724-0002.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2492,
+                                "height": 3969,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/3168%2F3913%2F79%2Fimages%2F2%2Ffiles%2F03183-P0002-000085-25_1724-0002.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01k5x8af96ctdm11a2d01ysjpr/manifest/canvases/5233"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
