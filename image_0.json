@@ -142,43 +142,38 @@
                                 "selector": {
                                     "type": "SvgSelector",
                                     "value": "<svg><polygon points=\"3255.550048828125,1637.05029296875 3566.205322265625,1677.7919921875 3576.390869140625,3088.472900390625 3286.106201171875,3195.419677734375\"></polygon></svg>"
-                                }
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
                             },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
                             "body": [
                                 {
                                     "type": "TextualBody",
-                                    "purpose": "describing",
                                     "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Title: Cole's Book Arcade"
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Cole&#039;s Book Arcade</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
                                 },
                                 {
                                     "type": "TextualBody",
-                                    "purpose": "classifying",
                                     "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Line Color: #506DAC"
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">Opened in 1883 by Edward William Cole, Cole's claimed to be the largest bookstore in the world until it closed in 1929.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
                                 },
                                 {
                                     "type": "TextualBody",
-                                    "purpose": "describing",
                                     "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Description: Opened in 1883 by Edward William Cole, Cole's claimed to be the largest bookstore in the world until it closed in 1929."
-                                },
-                                {
-                                    "type": "TextualBody",
-                                    "purpose": "linking",
-                                    "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Link: [Cole's Book Arcade at eMelbourne](https://www.emelbourne.net.au/biogs/EM00374b.htm)"
-                                },
-                                {
-                                    "type": "TextualBody",
-                                    "purpose": "commenting",
-                                    "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Line Weight: Medium"
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://www.emelbourne.net.au/biogs/EM00374b.htm\">Cole&#039;s Book Arcade at eMelbourne</a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
                                 }
                             ]
                         },
@@ -193,43 +188,38 @@
                                 "selector": {
                                     "type": "SvgSelector",
                                     "value": "<svg><polygon points=\"4437.51611328125,1864.6090087890625 4443.17138671875,2635.611083984375 4595.86376953125,2639.38134765625 4595.86376953125,2820.35009765625 4752.326171875,2778.878173828125 4757.9814453125,2580.943603515625 4620.3701171875,2575.288330078125 4622.2548828125,1898.5406494140625\"></polygon></svg>"
-                                }
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
                             },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
                             "body": [
                                 {
                                     "type": "TextualBody",
-                                    "purpose": "describing",
                                     "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Title: Royal Arcade"
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Royal Arcade</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
                                 },
                                 {
                                     "type": "TextualBody",
-                                    "purpose": "classifying",
                                     "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Line Color: #506DAC"
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">By 1925, the Royal Arcade was firmly established as one of Melbourne's premier shopping destinations, famous for tenants including the Royal Turkish Baths and Thomas Gaunt, jeweller.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
                                 },
                                 {
                                     "type": "TextualBody",
-                                    "purpose": "describing",
                                     "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Description: By 1925, the Royal Arcade was firmly established as one of Melbourne's premier shopping destinations, famous for tenants including the Royal Turkish Baths and Thomas Gaunt, jeweller."
-                                },
-                                {
-                                    "type": "TextualBody",
-                                    "purpose": "linking",
-                                    "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Link: [Royal Arcade at eMelbourne](https://www.emelbourne.net.au/biogs/EM01269b.htm)"
-                                },
-                                {
-                                    "type": "TextualBody",
-                                    "purpose": "commenting",
-                                    "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Line Weight: Medium"
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://www.emelbourne.net.au/biogs/EM01269b.htm\">Royal Arcade at eMelbourne</a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
                                 }
                             ]
                         },
@@ -244,43 +234,38 @@
                                 "selector": {
                                     "type": "SvgSelector",
                                     "value": "<svg><polygon points=\"5034.615234375,1578.228271484375 5237.52392578125,1575.610107421875 5317.37841796875,1644.991943359375 5347.48779296875,2392.48291015625 5251.92431640625,2452.700927734375 5237.52392578125,1896.33740234375 5236.21484375,1787.682861328125 5038.54248046875,1790.301025390625\"></polygon></svg>"
-                                }
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
                             },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
                             "body": [
                                 {
                                     "type": "TextualBody",
-                                    "purpose": "describing",
                                     "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Title: Danks"
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Danks</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
                                 },
                                 {
                                     "type": "TextualBody",
-                                    "purpose": "classifying",
                                     "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Line Color: #506DAC"
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">John Danks and Son was a hardware merchant and manufacturer.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
                                 },
                                 {
                                     "type": "TextualBody",
-                                    "purpose": "describing",
                                     "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Description: John Danks and Son was a hardware merchant and manufacturer."
-                                },
-                                {
-                                    "type": "TextualBody",
-                                    "purpose": "linking",
-                                    "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Link: [Danks, John & Son Pty Ltd at eMelbourne](https://www.emelbourne.net.au/biogs/EM00443b.htm)"
-                                },
-                                {
-                                    "type": "TextualBody",
-                                    "purpose": "commenting",
-                                    "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Line Weight: Medium"
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://www.emelbourne.net.au/biogs/EM00443b.htm\">Danks, John &amp; Son Pty Ltd at eMelbourne</a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
                                 }
                             ]
                         },
@@ -295,43 +280,38 @@
                                 "selector": {
                                     "type": "SvgSelector",
                                     "value": "<svg><polygon points=\"5336.08349609375,4072.23876953125 6651.6318359375,4053.903564453125 6207.00390625,2646.679443359375 5931.9765625,2655.846923828125\"></polygon></svg>"
-                                }
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
                             },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
                             "body": [
                                 {
                                     "type": "TextualBody",
-                                    "purpose": "describing",
                                     "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Title: Central Bourke Street"
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Central Bourke Street</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
                                 },
                                 {
                                     "type": "TextualBody",
-                                    "purpose": "classifying",
                                     "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Line Color: #506DAC"
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">Nestled between the hills to the east and west, Bourke Street between Swanston and Elizabeth Streets gradually assumed its place as the principal retailing strip of Melbourne by the early 20th century.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
                                 },
                                 {
                                     "type": "TextualBody",
-                                    "purpose": "describing",
                                     "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Description: Nestled between the hills to the east and west, Bourke Street between Swanston and Elizabeth Streets gradually assumed its place as the principal retailing strip of Melbourne by the early 20th century."
-                                },
-                                {
-                                    "type": "TextualBody",
-                                    "purpose": "linking",
-                                    "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Link: [Bourke Street at eMelbourne](https://www.emelbourne.net.au/biogs/EM00219b.htm)"
-                                },
-                                {
-                                    "type": "TextualBody",
-                                    "purpose": "commenting",
-                                    "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Line Weight: Medium"
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://www.emelbourne.net.au/biogs/EM00219b.htm\">Bourke Street at eMelbourne</a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
                                 }
                             ]
                         },
@@ -346,43 +326,38 @@
                                 "selector": {
                                     "type": "SvgSelector",
                                     "value": "<svg><polygon points=\"2012.8345947265625,4122.66015625 4996.8828125,2894.2041015625 5015.21826171875,2724.60400390625 5230.65625,2687.93359375 5244.40771484375,2797.944580078125 5345.2509765625,2752.106689453125 5354.4189453125,2683.349853515625 5459.84619140625,2646.679443359375 5757.79248046875,2270.80859375 5766.9599609375,2197.4677734375 5826.54931640625,2197.4677734375 5831.13330078125,2238.721923828125 5881.5546875,2234.13818359375 5689.03564453125,2706.268798828125 3759.25927734375,4118.07666015625\"></polygon></svg>"
-                                }
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
                             },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
                             "body": [
                                 {
                                     "type": "TextualBody",
-                                    "purpose": "describing",
                                     "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Title: Trams"
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Trams</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
                                 },
                                 {
                                     "type": "TextualBody",
-                                    "purpose": "classifying",
                                     "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Line Color: #506DAC"
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">Although conversion of the city's tram network to electricity had begun by 1925, Bourke Street would remain home to cable trams for more than a decade to come. Trams along Bourke Street ran to East Brunswick along Nicholson Street and Queens Parade to Clifton Hill.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
                                 },
                                 {
                                     "type": "TextualBody",
-                                    "purpose": "describing",
                                     "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Description: Although conversion of the city's tram network to electricity had begun by 1925, Bourke Street would remain home to cable trams for more than a decade to come. Trams along Bourke Street ran to East Brunswick along Nicholson Street and Queens Parade to Clifton Hill."
-                                },
-                                {
-                                    "type": "TextualBody",
-                                    "purpose": "linking",
-                                    "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Link: [Cable Trams at eMelbourne](https://www.emelbourne.net.au/biogs/EM00275b.htm)"
-                                },
-                                {
-                                    "type": "TextualBody",
-                                    "purpose": "commenting",
-                                    "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Line Weight: Medium"
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://www.emelbourne.net.au/biogs/EM00275b.htm\">Cable Trams at eMelbourne</a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
                                 }
                             ]
                         },
@@ -397,43 +372,38 @@
                                 "selector": {
                                     "type": "SvgSelector",
                                     "value": "<svg><polygon points=\"1627.63671875,476.8798522949219 1613.8853759765625,2810.02978515625 2416.048828125,2823.78125 2411.465087890625,3575.52294921875 435.8509216308594,4171.416015625 467.93743896484375,444.7933044433594 463.3536682128906,444.7933044433594\"></polygon></svg>"
-                                }
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
                             },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
                             "body": [
                                 {
                                     "type": "TextualBody",
-                                    "purpose": "describing",
                                     "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Title: Leviathan Men's Clothing Store"
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Leviathan Men&#039;s Clothing Store</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
                                 },
                                 {
                                     "type": "TextualBody",
-                                    "purpose": "classifying",
                                     "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Line Color: #506DAC"
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">One of Melbourne's most popular department stores in 1925.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
                                 },
                                 {
                                     "type": "TextualBody",
-                                    "purpose": "describing",
                                     "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Description: One of Melbourne's most popular department stores in 1925."
-                                },
-                                {
-                                    "type": "TextualBody",
-                                    "purpose": "linking",
-                                    "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Link: [Leviathan at eMelbourne](https://www.emelbourne.net.au/biogs/EM00850b.htm)"
-                                },
-                                {
-                                    "type": "TextualBody",
-                                    "purpose": "commenting",
-                                    "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Line Weight: Medium"
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://www.emelbourne.net.au/biogs/EM00850b.htm\">Leviathan at eMelbourne</a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
                                 }
                             ]
                         },
@@ -448,43 +418,38 @@
                                 "selector": {
                                     "type": "SvgSelector",
                                     "value": "<svg><polygon points=\"6202.2607421875,1375.302978515625 6115.1689453125,1902.4390869140625 6142.67138671875,2626.67822265625 6257.2666015625,2622.094482421875 6248.0986328125,2617.510498046875\"></polygon></svg>"
-                                }
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
                             },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
                             "body": [
                                 {
                                     "type": "TextualBody",
-                                    "purpose": "describing",
                                     "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Title: General Post Office"
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">General Post Office</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
                                 },
                                 {
                                     "type": "TextualBody",
-                                    "purpose": "classifying",
                                     "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Line Color: #506DAC"
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">Almost hidden behind the facades of department stores is the edifice of the General Post Office, traditionally considered the centre point of the Melbourne metropolis.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
                                 },
                                 {
                                     "type": "TextualBody",
-                                    "purpose": "describing",
                                     "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Description: Almost hidden behind the facades of department stores is the edifice of the General Post Office, traditionally considered the centre point of the Melbourne metropolis."
-                                },
-                                {
-                                    "type": "TextualBody",
-                                    "purpose": "linking",
-                                    "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Link: [General Post Office at eMelbourne](https://www.emelbourne.net.au/biogs/EM00634b.htm)"
-                                },
-                                {
-                                    "type": "TextualBody",
-                                    "purpose": "commenting",
-                                    "language": "en",
-                                    "format": "text/plain",
-                                    "value": "Line Weight: Medium"
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://www.emelbourne.net.au/biogs/EM00634b.htm\">General Post Office at eMelbourne</a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
                                 }
                             ]
                         }
