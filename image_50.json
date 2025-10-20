@@ -1,0 +1,423 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://notamitchell.github.io/iiif/image_49.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "[Tramway construction at corner of Flinders and Swanston Streets, Melbourne]"
+        ]
+    },
+    "summary": {
+        "none": [
+            "Shows busy automobile traffic and possibly removal of old cables from beneath road with construction company sign in centre. Shows sign on Flinders Street Railway Station reading: CROSS CROSSINGS CAUTIOUSLY."
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "none": [
+                "http://handle.slv.vic.gov.au/10381/336801"
+            ]
+        }
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Patrick Gigacz"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Created"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-09-23T04:26:41.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Modified"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-09-23T04:27:17.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Published"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-09-23T05:07:34.000000Z"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE1914869:FL21092153.jpg/full/300,/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 300,
+            "height": 228,
+            "service": [
+                {
+                    "id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE1914869:FL21092153.jpg",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "iaw/data/publications/image-sets/01k5tfgkga60kch0zwtdf9466f/manifest/canvases/5231",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Tramway construction at corner of Flinders and Swanston Streets, Melbourne"
+                ]
+            },
+            "width": 7000,
+            "height": 5300,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01k5tfgkga60kch0zwtdf9466f/manifest/canvases/5231/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01k5tfgkga60kch0zwtdf9466f/manifest/canvases/5231/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE1914869:FL21092153.jpg/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 7000,
+                                "height": 5300,
+                                "service": [
+                                    {
+                                        "id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE1914869:FL21092153.jpg",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01k5tfgkga60kch0zwtdf9466f/manifest/canvases/5231"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01K5TFGF82ZMZ9KMKTFWPM2MWG/page/5231",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01K5TFGF82ZMZ9KMKTFWPM2MWG",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "The Traffic Puzzle"
+                            ]
+                        }
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01K5TFGF82ZMZ9KMKTFWPM2MWG/annotations/19499",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-23 04:32:39",
+                            "modified": "2025-09-23 04:32:39",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01k5tfgkga60kch0zwtdf9466f/manifest/canvases/5231",
+                                "selector": {
+                                    "type": "SvgSelector",
+                                    "value": "<svg><polygon points=\"1012.36328125,1699.0152587890625 1018.1619873046875,1426.47705078125 925.3829956054688,1351.0941162109375 1000.7659301757812,1310.5032958984375 1058.7528076171875,1066.9583740234375 1203.719970703125,1072.757080078125 1511.0504150390625,701.64111328125 1800.9847412109375,1165.5361328125 1940.1531982421875,1159.7374267578125 1998.14013671875,782.82275390625 2218.490234375,498.6871032714844 2456.236328125,417.5054931640625 2491.028564453125,237.74618530273438 2647.593017578125,231.94749450683594 2659.1904296875,400.10943603515625 2920.13134765625,539.2778930664062 3117.28662109375,777.0240478515625 3198.46826171875,1084.3544921875 3320.24072265625,1084.3544921875 3413.019775390625,962.58203125 3656.564453125,1264.11376953125 3726.148681640625,1327.8992919921875 3743.544921875,1432.2757568359375 3813.129150390625,1507.65869140625 3784.1357421875,1588.8402099609375 3859.5185546875,1641.0284423828125 3871.115966796875,1565.6455078125 3929.102783203125,1623.63232421875 3969.693603515625,1635.229736328125 4016.083251953125,1652.6258544921875 4040.406494140625,1606.236328125 4062.481689453125,1525.0546875 4108.86181640625,1623.63232421875 4184.2451171875,1699.0152587890625 4207.439453125,1809.1903076171875 4311.81591796875,1872.9759521484375 4311.81591796875,1559.8468017578125 4416.1923828125,1223.52294921875 4537.96484375,1594.638916015625 4526.36767578125,1959.9561767578125 4607.54931640625,2058.533935546875 4636.54248046875,2464.44189453125 3697.1552734375,2522.428955078125 3702.953857421875,2748.57763671875 2293.873046875,2789.16845703125 1499.452880859375,2818.161865234375 1505.2515869140625,2394.857666015625 1586.43310546875,2389.05908203125 1586.43310546875,2319.474853515625 2003.9385986328125,2284.6826171875 2009.7373046875,2151.31298828125 1603.8292236328125,2093.325927734375 1551.6409912109375,1994.748291015625 1482.0567626953125,1809.1903076171875 1354.4857177734375,1768.599609375 1354.4857177734375,1693.2166748046875 1076.148681640625,1623.63232421875 1076.148681640625,1728.0087890625\"></polygon></svg>"
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Flinders Street Station</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">With some 300,000 passengers a day passing through, Flinders Street Station was Melbourne's busiest station and reputed to be one of the busiest anywhere in the world. Many emerged \"under the clocks\" onto the corner of Flinders and Swanston Streets, where dense crowds of pedestrians jostled with tram, horse and motor traffic.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://www.emelbourne.net.au/biogs/EM00587b.htm\">Flinders Street Station at eMelbourne</a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01K5TFGF82ZMZ9KMKTFWPM2MWG/annotations/19500",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-23 04:37:54",
+                            "modified": "2025-09-23 04:37:54",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01k5tfgkga60kch0zwtdf9466f/manifest/canvases/5231",
+                                "selector": {
+                                    "type": "SvgSelector",
+                                    "value": "<svg><polygon points=\"26.586502075195312,1327.8992919921875 473.08538818359375,1571.4442138671875 676.0394287109375,1577.242919921875 763.019775390625,1704.81396484375 1023.960693359375,1716.411376953125 1081.947509765625,1641.0284423828125 1354.48583984375,1704.81396484375 1354.48583984375,1780.1968994140625 1476.25830078125,1814.989013671875 1487.8555908203125,1954.157470703125 1574.8359375,2000.5469970703125 1603.829345703125,2104.92333984375 1998.14013671875,2162.91015625 1986.542724609375,2273.085205078125 1586.433349609375,2325.2734375 1586.433349609375,2371.6630859375 1487.8555908203125,2377.461669921875 1487.8555908203125,2858.752685546875 26.586502075195312,3050.109375\"></polygon></svg>"
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Princes Bridge Station</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">Flinders Street's less glamorous cousin, Princes Bridge was the terminus for north-eastern suburban lines. It was gradually incorporated into the larger station over the course of decades.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://www.emelbourne.net.au/biogs/EM01222b.htm\">Railways at eMelbourne</a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01K5TFGF82ZMZ9KMKTFWPM2MWG/annotations/19501",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-23 04:56:05",
+                            "modified": "2025-09-23 04:56:05",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01k5tfgkga60kch0zwtdf9466f/manifest/canvases/5231",
+                                "selector": {
+                                    "type": "SvgSelector",
+                                    "value": "<svg><polygon points=\"0,4488.18359375 3552.188232421875,2968.927734375 4845.29541015625,2968.927734375 4526.36767578125,5265.2080078125 14.989128112792969,5282.60400390625\"></polygon></svg>"
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Tramway electrification works</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">During 1926, the cable tram route in Flinders Street was converted to electricity. Some argued that the overhead electric wires would be a permanent blight on the city, but the efficiency of electric trams won the day.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://www.emelbourne.net.au/biogs/EM00275b.htm\">Cable Trams at eMelbourne</a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01K5TFGF82ZMZ9KMKTFWPM2MWG/annotations/19502",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-23 04:57:55",
+                            "modified": "2025-09-23 04:57:55",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01k5tfgkga60kch0zwtdf9466f/manifest/canvases/5231",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=1124.3394775390625,2620.815185546875,3006.0574951171875,741.299560546875"
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Crossing the street</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">As motor traffic increased, some argued that pedestrians should be physically separated from other traffic. The Degraves Street Subway, built some decades later, was an attempt to address this problem.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://www.emelbourne.net.au/biogs/EM00454b.htm\">Degraves Street Subway at eMelbourne</a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01K5TFGF82ZMZ9KMKTFWPM2MWG/annotations/19503",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-23 04:58:52",
+                            "modified": "2025-09-23 04:58:52",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01k5tfgkga60kch0zwtdf9466f/manifest/canvases/5231",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=4346.3662109375,2498.238037109375,484.47119140625,554.515380859375"
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Policeman on point duty</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">Although the City Council trialled several automatic traffic control devices through the early 1920s, there was a feeling that they were not as able to cope with Melbourne's extraordinary volume and variety of traffic.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01K5TFGF82ZMZ9KMKTFWPM2MWG/annotations/19504",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-23 05:01:21",
+                            "modified": "2025-09-23 05:01:21",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01k5tfgkga60kch0zwtdf9466f/manifest/canvases/5231",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=6543.98388671875,2471.693359375,320.900390625,476.283447265625"
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Horses</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">By the mid-1920s, the future of horse-drawn vehicles in the city was uncertain. Not only were they slow and spooked by the growing motor traffic, horse droppings were a menace to clean and healthy streets.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://www.emelbourne.net.au/biogs/EM00723b.htm\">Horses at eMelbourne</a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
