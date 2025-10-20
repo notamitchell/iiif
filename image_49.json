@@ -1,0 +1,1113 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://notamitchell.github.io/iiif/image_49.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Staff in the Town Clerk's files"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Patrick Gigacz"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Created"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-03T06:02:31.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Modified"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-03T06:02:31.000000Z"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Published"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025-06-13T04:50:48.000000Z"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "iaw/images/iiif/01JWT5XK1QJ3XMYZJY8M7AMJER/full/300,/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 300,
+            "height": 133,
+            "service": [
+                {
+                    "id": "iaw/images/iiif/01JWT5XK1QJ3XMYZJY8M7AMJER",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/4509",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Councillors (blue) and staff (green), 1928"
+                ]
+            },
+            "summary": {
+                "none": [
+                    "\"City Council's Successful Loan,\" Argus, May 23, 1928, 19, https://trove.nla.gov.au/newspaper/article/3930383."
+                ]
+            },
+            "width": 1039,
+            "height": 458,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/4509/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/4509/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "iaw/images/iiif/01JWT5XK1QJ3XMYZJY8M7AMJER/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1039,
+                                "height": 458,
+                                "service": [
+                                    {
+                                        "id": "iaw/images/iiif/01JWT5XK1QJ3XMYZJY8M7AMJER",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/4509"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/page/4509",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Melbourne 1925"
+                            ]
+                        }
+                    },
+                    "next": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/page/5208",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/annotations/19480",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-09 01:47:31",
+                            "modified": "2025-09-09 01:47:31",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/4509",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=1.4685484170913696,170.25796508789062,71.95901048183441,256.9964904785156"
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Councillor Harry Foster</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">Henry Edward Foster was elected to the City Council at a by-election in 1927. A plumber who had risen through the trade union movement to become secretary of the Trades Hall Council in 1923, Foster's presence on the City Council marked a new presence in local government for the Australian Labor Party. While the ALP had largely ignored the City of Melbourne elections, dominated by city businessmen and mostly devoid of working-class voters, Foster's candidature was an opportunity to secure Labor power if grand plans for a Greater Melbourne Council came to fruition.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://trove.nla.gov.au/newspaper/article/2007811\">Argus, 8 June 1923</a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://trove.nla.gov.au/newspaper/article/249955642\">Labor Call, 19 January 1928</a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://trove.nla.gov.au/newspaper/article/249958927\">Labor Call, 25 October 1928</a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/annotations/19481",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-09 01:56:03",
+                            "modified": "2025-09-09 01:56:03",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/4509",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=65.03369140625,145.11036682128906,127.75851440429688,216.2659149169922"
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Councillor Harold Luxton</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">After inheriting ownership and control of the prominent hardware firm McEwan's aged just 23, Harold Daniel Luxton ascended rapidly in Melbourne business circles. Elected to the City Council in 1919, Luxton became the youngest ever Lord Mayor in 1928 and served an extraordinary three consecutive terms. In addition to sitting on the Council until 1943, Luxton sat in the Victorian Parliament between 1930 and 1935. Famously, in later life, Luxton lamented that Melbourne had become a \"deadly dull\" city as a result of its restrictive liquor laws.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://adb.anu.edu.au/biography/luxton-sir-harold-daniel-7264\">Harold Daniel Luxton, ADB</a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/annotations/19482",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-09 02:05:06",
+                            "modified": "2025-09-09 02:05:06",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/4509",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=256.6714782714844,149.72813415527344,121.60147094726562,157.77406311035156"
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Sir William Brunton</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">A city businessman of many interests and long-standing councillor since 1913, by 1925 Brunton had served three terms as Lord Mayor. He had risen to considerable public prominence when, during the 1923 police strike, he had used untested municipal powers to recruit a force of special constables and ordered them to bring rioting and looting under control on behalf of the Council's business owner constituents. In 1925, Brunton was also the architect of a new scheme for a Greater Melbourne Council - which, like previous attempts, was defeated.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://adb.anu.edu.au/biography/brunton-sir-william-5407\">Sir William Brunton, ADB</a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/annotations/19483",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-09 02:06:05",
+                            "modified": "2025-09-09 02:06:05",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/4509",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=397.513671875,132.79629516601562,130.8370361328125,180.09332275390625"
+                                },
+                                "styleClass": [
+                                    "line-color-4A9A5A",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-4A9A5A {stroke: #4A9A5A;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Town Clerk William McCall</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">McCall's career is described elsewhere in this image set.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/annotations/19484",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-09 02:08:37",
+                            "modified": "2025-09-09 02:08:37",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/4509",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=513.7277221679688,161.2725830078125,131.606689453125,135.45480346679688"
+                                },
+                                "styleClass": [
+                                    "line-color-4A9A5A",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-4A9A5A {stroke: #4A9A5A;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">City Treasurer Charles Watts</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">Charles George Watts followed his father into the staff of the City Council as a junior clerk in 1886. He was appointed City Treasurer in 1922 and retained the office until his retirement in 1936.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://trove.nla.gov.au/newspaper/article/204384060\">Age, 13 September 1940</a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/annotations/19485",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-09 02:35:19",
+                            "modified": "2025-09-09 02:35:19",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/4509",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=843.1292114257812,144.34072875976562,122.37109375,202.41259765625"
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Alderman George Crespin</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">George Henry Claude Crespin succeeded his father, Godwin George Crespin, for a seat on the City Council in 1917. In 1925, he had recently been appointed to the position of Alderman - a senior councillor for the ward, with an extended seven-year term.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://trove.nla.gov.au/newspaper/article/278872553\">Sun, 30 May 1944</a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/annotations/19487",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-09 02:44:12",
+                            "modified": "2025-09-09 02:44:12",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/4509",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=935.4847412109375,178.20443725585938,99.2822265625,173.936279296875"
+                                },
+                                "styleClass": [
+                                    "line-color-4A9A5A",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-4A9A5A {stroke: #4A9A5A;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Chief Clerk Eric Hudspeth</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">Hudspeth's career is described elsewhere.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/annotations/19488",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-09 02:47:07",
+                            "modified": "2025-09-09 02:47:07",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/4509",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=783.4721069335938,53.508140563964844,113.812744140625,187.24028778076172"
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Councillor Felix Lloyd</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">Lloyd was a managing director of the Bourke Street department store Buckley and Nunn. He had been newly elected to the City Council in 1925.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://www.emelbourne.net.au/biogs/EM00251b.htm\">Buckley and Nunn @ eMelbourne</a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://trove.nla.gov.au/newspaper/article/10941322\">Argus, 29 May 1934</a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/annotations/19489",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-09 04:46:40",
+                            "modified": "2025-09-09 04:46:51",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/4509",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=372.2777404785156,46.165382385253906,421.4742126464844,111.60990142822266"
+                                },
+                                "styleClass": [
+                                    "line-color-4A9A5A",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-4A9A5A {stroke: #4A9A5A;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Town Hall office staff</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p class=\"field-label\"><b>Description</b></p><div class=\"field-value\">Inside the Town Clerk's office, the Chief Clerk supervised around ten other clerks to carry out the administrative work of the City Council. Most senior were the Lord Mayor and Town Clerk's personal secretaries; most junior the assisting stationery clerk.</div>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/2"
+                                },
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Link</b></span>: <span class=\"field-value\"><a target=\"_blank\" href=\"https://prov.vic.gov.au/archive/3A00D7E4-F7F6-11E9-AE98-B9B1CFB55CA5\"></a></span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/3"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/5208",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "23/3169 List of clerical positions in industrial agreement"
+                ]
+            },
+            "width": 2520,
+            "height": 4004,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/5208/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/5208/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/iiif/2/4168%2F3705%2F33%2Fimages%2F134%2Ffiles%2F03183-P0002-000060-23_3169-0134.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2520,
+                                "height": 4004,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/iiif/2/4168%2F3705%2F33%2Fimages%2F134%2Ffiles%2F03183-P0002-000060-23_3169-0134.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/5208"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/page/5208",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Melbourne 1925"
+                            ]
+                        }
+                    },
+                    "prev": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/page/4509",
+                        "type": "AnnotationPage"
+                    },
+                    "next": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/page/5209",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/annotations/19490",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-09 04:55:35",
+                            "modified": "2025-09-09 04:55:35",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/5208",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=125.7507095336914,2362.0595703125,2045.3674545288086,62.934326171875"
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Chief Clerk (Town Clerk&#039;s office)</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/annotations/19491",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-09 04:55:49",
+                            "modified": "2025-09-09 04:55:49",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/5208",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=151.49659729003906,3231.6982421875,2051.088851928711,51.49169921875"
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Committee and Legal Clerk</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/annotations/19492",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-09 04:56:09",
+                            "modified": "2025-09-09 04:56:09",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/5208",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=145.77528381347656,3323.2392578125,2053.9495697021484,177.3603515625"
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Lord Mayor&#039;s and Town Clerk&#039;s secretaries</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/5209",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "23/3169 List of clerical positions in industrial agreement (2)"
+                ]
+            },
+            "width": 2536,
+            "height": 3998,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/5209/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/5209/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/iiif/2/4168%2F3705%2F33%2Fimages%2F135%2Ffiles%2F03183-P0002-000060-23_3169-0135.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2536,
+                                "height": 3998,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/iiif/2/4168%2F3705%2F33%2Fimages%2F135%2Ffiles%2F03183-P0002-000060-23_3169-0135.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/5209"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/page/5209",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Melbourne 1925"
+                            ]
+                        }
+                    },
+                    "prev": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/page/5208",
+                        "type": "AnnotationPage"
+                    },
+                    "next": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/page/5210",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/annotations/19493",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-09 04:57:57",
+                            "modified": "2025-09-09 04:57:57",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/5209",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=149.73236083984375,701.0084228515625,2019.4517211914062,79.978271484375"
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Hackney Carriage Clerk</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/annotations/19494",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-09 04:58:07",
+                            "modified": "2025-09-09 04:58:07",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/5209",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=161.02212524414062,990.9351196289062,2023.3506774902344,96.76898193359375"
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Committee Clerk</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/annotations/19497",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-09 04:59:04",
+                            "modified": "2025-09-09 04:59:04",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/5209",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=149.73236083984375,2879.011962890625,2042.3025512695312,179.951171875"
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Assistant Committee Clerks</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/5210",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "23/3169 List of clerical positions in industrial agreement (3)"
+                ]
+            },
+            "width": 2522,
+            "height": 3994,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/5210/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/5210/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://images.prov.vic.gov.au/loris/iiif/2/4168%2F3705%2F33%2Fimages%2F136%2Ffiles%2F03183-P0002-000060-23_3169-0136.jp2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2522,
+                                "height": 3994,
+                                "service": [
+                                    {
+                                        "id": "https://images.prov.vic.gov.au/loris/iiif/2/4168%2F3705%2F33%2Fimages%2F136%2Ffiles%2F03183-P0002-000060-23_3169-0136.jp2",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/5210"
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/page/5210",
+                    "type": "AnnotationPage",
+                    "partOf": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4",
+                        "type": "AnnotationCollection",
+                        "label": {
+                            "none": [
+                                "Melbourne 1925"
+                            ]
+                        }
+                    },
+                    "prev": {
+                        "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/page/5209",
+                        "type": "AnnotationPage"
+                    },
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/annotations/19495",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-09 04:58:37",
+                            "modified": "2025-09-09 04:58:37",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/5210",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=249.39132690429688,312.1904296875,1981.6037902832031,105.02499389648438"
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Registration Clerk</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "iaw/data/publications/annotation-sets/01JZ2ATPB0F3ABM7SPQ28YY8R4/annotations/19496",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "created": "2025-09-09 04:58:50",
+                            "modified": "2025-09-09 04:58:50",
+                            "target": {
+                                "source": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/5210",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=241.46490478515625,874.9658813476562,1993.4933471679688,136.73065185546875"
+                                },
+                                "styleClass": [
+                                    "line-color-506DAC",
+                                    "line-weight-medium"
+                                ]
+                            },
+                            "style": {
+                                "type": "CssStylesheet",
+                                "value": ".line-color-506DAC {stroke: #506DAC;} .line-weight-medium {stroke-width: 3;}"
+                            },
+                            "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB",
+                            "body": [
+                                {
+                                    "type": "TextualBody",
+                                    "language": "en",
+                                    "format": "text/html",
+                                    "value": "<p><span class=\"field-label\"><b>Title</b></span>: <span class=\"field-value\">Assisting clerks</span></p>",
+                                    "generator": "iaw/data/publications/annotation-template/01K6MV7H5TVMWM1NQVK6SMS4EB/field/1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/4510",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Town Clerk W.V. McCall"
+                ]
+            },
+            "summary": {
+                "none": [
+                    "\"W.V. McCall Esq. (Town Clerk 1923–36)\", photograph, 96 x 76 cm, City of Melbourne Art and Heritage Collection, item no. 1087893, https://citycollection.melbourne.vic.gov.au/w-v-mccall-esq-town-clerk-1923-36/."
+                ]
+            },
+            "width": 806,
+            "height": 1024,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/4510/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/4510/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "iaw/images/iiif/01JWT63W64DXCTRG5SE90NJT7W/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 806,
+                                "height": 1024,
+                                "service": [
+                                    {
+                                        "id": "iaw/images/iiif/01JWT63W64DXCTRG5SE90NJT7W",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/4510"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/4581",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "W. V. McCall in cartoon form"
+                ]
+            },
+            "summary": {
+                "none": [
+                    "https://trove.nla.gov.au/newspaper/article/146583522"
+                ]
+            },
+            "width": 419,
+            "height": 650,
+            "items": [
+                {
+                    "id": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/4581/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/4581/page/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "iaw/images/iiif/01JXKSZYJ6VNXDFT4MMN00VVEF/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 419,
+                                "height": 650,
+                                "service": [
+                                    {
+                                        "id": "iaw/images/iiif/01JXKSZYJ6VNXDFT4MMN00VVEF",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "target": "iaw/data/publications/image-sets/01jxkt0kzmtvb9g6eyfmaytx1s/manifest/canvases/4581"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
