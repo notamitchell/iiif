@@ -99,7 +99,7 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "iaw/images/iiif/01JWT5XK1QJ3XMYZJY8M7AMJER/full/max/0/default.jpg",
+                                "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/634/full/full/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "width": 1039,
