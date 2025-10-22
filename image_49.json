@@ -59,14 +59,14 @@
     ],
     "thumbnail": [
         {
-            "id": "iaw/images/iiif/01JWT5XK1QJ3XMYZJY8M7AMJER/full/300,/0/default.jpg",
+            "id": ""https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/634/full/300,/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "width": 300,
             "height": 133,
             "service": [
                 {
-                    "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/634/info.json",
+                    "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/634",
                     "type": "ImageService3",
                     "profile": "level2"
                 }
