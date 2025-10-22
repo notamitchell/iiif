@@ -106,7 +106,7 @@
                                 "height": 458,
                                 "service": [
                                     {
-                                        "id": "iaw/images/iiif/01JWT5XK1QJ3XMYZJY8M7AMJER",
+                                        "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/634",
                                         "type": "ImageService3",
                                         "profile": "level2"
                                     }
