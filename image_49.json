@@ -1090,14 +1090,14 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "iaw/images/iiif/01JXKSZYJ6VNXDFT4MMN00VVEF/full/max/0/default.jpg",
+                                "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/639/full/full/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "width": 419,
                                 "height": 650,
                                 "service": [
                                     {
-                                        "id": "iaw/images/iiif/01JXKSZYJ6VNXDFT4MMN00VVEF",
+                                        "id": "https://omeka.cloud.unimelb.edu.au/melbourne-history/iiif-img/639",
                                         "type": "ImageService3",
                                         "profile": "level2"
                                     }
