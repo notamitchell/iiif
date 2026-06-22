@@ -76,14 +76,14 @@
     ],
     "thumbnail": [
         {
-            "id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE1914869:FL21092153.jpg/full/300,/0/default.jpg",
+            "id": "https://rosetta.slv.vic.gov.au:443/iiif/2/IE1914869:FL21092153.jpg/full/300,/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "width": 300,
             "height": 228,
             "service": [
                 {
-                    "id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE1914869:FL21092153.jpg",
+                    "id": "https://rosetta.slv.vic.gov.au:443/iiif/2/IE1914869:FL21092153.jpg",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                 }
@@ -111,14 +111,14 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE1914869:FL21092153.jpg/full/max/0/default.jpg",
+                                "id": "https://rosetta.slv.vic.gov.au:443/iiif/2/IE1914869:FL21092153.jpg/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "width": 7000,
                                 "height": 5300,
                                 "service": [
                                     {
-                                        "id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE1914869:FL21092153.jpg",
+                                        "id": "https://rosetta.slv.vic.gov.au:443/iiif/2/IE1914869:FL21092153.jpg",
                                         "type": "ImageService2",
                                         "profile": "http://iiif.io/api/image/2/level2.json"
                                     }
